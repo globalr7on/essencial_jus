@@ -13,6 +13,29 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
+Route::get('/sobre_nos', function () {
+    return view('layout.about');
 });
+
+Route::get('/contato', function () {
+    return view('layout.contact');
+});
+
+Route::get('/faq', function () {
+    return view('layout.faq');
+});
+
+Route::get('/blog', function () {
+    return view('layout.news');
+});
+
+Route::get('/areas', function () {
+    return view('layout.practices');
+});
+
+Route::get('/equipe', function () {
+    return view('layout.team');
+});
+
+
+Route::get('/', 'App\Http\Controllers\HomeController@index')->name('home');
