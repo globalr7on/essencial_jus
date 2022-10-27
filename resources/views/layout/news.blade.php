@@ -42,8 +42,8 @@
                 </div>
                 <div class="topbar-right">
                     <div class="topbar-right">
-                        <span class="topbar-widget"><a href="#">Privacy policy</a></span>
-                        <span class="topbar-widget"><a href="#">Request Quote</a></span>
+                        <span class="topbar-widget"><a href="#">Política de Privacidade</a></span>
+                        <span class="topbar-widget"><a href="#">Solicitar cotação</a></span>
                         <span class="topbar-widget"><a href="#">FAQ</a></span>
                     </div>
                 </div>

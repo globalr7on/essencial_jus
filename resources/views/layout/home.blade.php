@@ -42,8 +42,8 @@
                 </div>
                 <div class="topbar-right">
                     <div class="topbar-right">
-                        <span class="topbar-widget"><a href="#">Privacy policy</a></span>
-                        <span class="topbar-widget"><a href="#">Request Quote</a></span>
+                        <span class="topbar-widget"><a href="#">Política de Privacidade</a></span>
+                        <span class="topbar-widget"><a href="#">Solicitar cotação</a></span>
                         <span class="topbar-widget"><a href="#">FAQ</a></span>
                     </div>
                 </div>
@@ -87,7 +87,7 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
-                                <div class="h-phone md-hide"><span>Need&nbsp;Help?</span><i class="fa fa-phone"></i> 1 200 300 9000</div>
+                                <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span><i class="fa fa-phone"></i>+55(99)999999</div>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>
@@ -106,11 +106,11 @@
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-lg-6">
-                                <h3 class="id-color wow fadeInUp" data-wow-delay=".4s">Need Any Help?</h3>
-                                <h1 class="wow fadeInUp" data-wow-delay=".6s">Finest Defence Lawyer</h1>
-                                <p class="lead wow fadeInUp" data-wow-delay=".8s">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <h3 class="id-color wow fadeInUp" data-wow-delay=".4s">Precisa de ajuda fiscal?</h3>
+                                <h1 class="wow fadeInUp" data-wow-delay=".6s">Conheça nossas soluções de revisões fiscais</h1>
+                                <p class="lead wow fadeInUp" data-wow-delay=".8s">Vai continuar deixando o dinheiro da sua empresa na mesa até quando?.</p>
                                 <div class="spacer-20"></div>
-                                <a class="btn-custom wow fadeInUp" data-wow-delay="1s" href="features.html">Contact Us</a>
+                                <a class="btn-custom wow fadeInUp" data-wow-delay="1s" href="features.html">Contate-nos</a>
                             </div>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                 <div class="container-fluid">
                     <div class="row no-gutters align-items-center">
                         <div class="col-lg-3 col-md-6 text-center text-light">
-                            <h3 class="padding40 no-margin">Practice Areas</h3>
+                            <h3 class="padding40 no-margin">Área de Atuação</h3>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="feature-box f-boxed style-3 text-center">
@@ -165,14 +165,14 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-4">
-                            <span class="p-title">Welcome</span><br>
+                            <span class="p-title">Bem-Vindo</span><br>
                             <h2>
-                                Reputation.<br>Respect. Result.
+                            Reputação, <br>Respeito & Resultado!
                             </h2>
                             <div class="small-border sm-left"></div>
                         </div>
                         <div class="col-md-8">
-                            <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa eiusmod id nostrud sit cupidatat in veniam ad. Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.
+                            <p>A Essencial Jus é uma consultoria fiscal que chega ao mercado atuando de maneira ágil, inovadora e multidisciplinar, através de tecnologia de ponta e profissionais qualificados. Com inquietude na busca por alternativas seguras e inovadoras, nossas soluções atendem as demandas reais dos nossos clientes.
                             </p>
                         </div>
                     </div>
@@ -228,7 +228,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5 offset-lg-7">
-                            <span class="p-title">Experiences</span><br>
+                            <span class="p-title">EXPERIÊNCIA</span><br>
                             <h2>
                                 Let Our Experience<br>be Your Guide
                             </h2>
@@ -266,7 +266,7 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="text-center">
-                                <h2>All Practice Areas</h2>
+                                <h2>TODAS AS ÁREAS DE ATUAÇÃO</h2>
                                 <div class="small-border"></div>
                             </div>
                         </div>
