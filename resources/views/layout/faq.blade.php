@@ -231,10 +231,10 @@
                         <div class="widget">
                             <a href="index.html"><img alt="" class="img-fluid mb20" src="images/logo-light.png"></a>
                             <address class="s1">
-                                <span><i class="id-color fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>
-                                <span><i class="id-color fa fa-phone fa-lg"></i>+1 333 9296</span>
+                                <span><i class="id-color fa fa-map-marker fa-lg"></i>Av. República Argentina, 2275 – SALA 1205- Água Verde – Curitiba, Paraná CEP 80610260</span>
+                                <span><i class="id-color fa fa-phone fa-lg"></i>+55(041)3618-7989</span>
                                 <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
-                                <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
+                                <!-- <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span> -->
                             </address>
                         </div>
                     </div>
