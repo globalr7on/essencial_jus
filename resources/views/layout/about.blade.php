@@ -122,7 +122,7 @@
                         <div class="col-md-5">
                             <span class="p-title">Quem somos nós</span><br>
                             <h2>Seu parceiro jurídico</h2>
-                            <p>LA Essencial Jus é uma consultoria fiscal que chega ao mercado atuando de maneira ágil, inovadora e multidisciplinar, através de tecnologia de ponta e profissionais qualificados. Com inquietude na busca por alternativas seguras e inovadoras, nossas soluções atendem as demandas reais dos nossos clientes. Criamos soluções assertivas de fluxo de caixa para negócios de todos os portes, por meio de mineração de créditos previdenciários, fiscais e de depósitos recursais. 
+                            <p>Essencial Jus é uma consultoria fiscal que chega ao mercado atuando de maneira ágil, inovadora e multidisciplinar, através de tecnologia de ponta e profissionais qualificados. Com inquietude na busca por alternativas seguras e inovadoras, nossas soluções atendem as demandas reais dos nossos clientes. Criamos soluções assertivas de fluxo de caixa para negócios de todos os portes, por meio de mineração de créditos previdenciários, fiscais e de depósitos recursais. 
                                 Também levantamos oportunidades fiscais em empresas do Simples Nacional e oferecemos serviço de adequação à LGPD/Compliance. Além disso, somos credenciadas como administradora judicial na gestão de recuperações judiciais e falências.
                                 ​Prezamos pela responsabilidade social, diversidade e sustentabilidade, pois somente com propósito há ganho!
                             </p>
