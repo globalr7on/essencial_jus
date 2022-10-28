@@ -60,8 +60,8 @@
                                 <!-- logo begin -->
                                 <div id="logo">
                                     <a href="index.html">
-                                        <img alt="" class="logo" src="images/logo-light.png" />
-                                        <img alt="" class="logo-2" src="images/logo.png" />
+                                        <img alt="" class="logo" src="images/logo-light.png"  width="220" height="80"/>
+                                        <img alt="" class="logo-2" src="images/logo.png"  width="220" height="80" />
                                     </a>
                                 </div>
                                 <!-- logo close -->
@@ -87,7 +87,7 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
-                                <div class="h-phone md-hide"><span>Need&nbsp;Help?</span><i class="fa fa-phone"></i> 1 200 300 9000</div>
+                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span><i class="fa fa-phone"></i>+55(99)999999</div>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                     </div>
                 </div>
             </section>
-            <section aria-label="section" class="text-light" data-bgcolor="#111111">
+            <section aria-label="section" class="text-light" data-bgcolor="#0c2022">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2 mb-sm-30 text-center">

@@ -60,8 +60,8 @@
                                 <!-- logo begin -->
                                 <div id="logo">
                                     <a href="index.html">
-                                        <img alt="" class="logo" src="images/logo-light.png" />
-                                        <img alt="" class="logo-2" src="images/logo.png" />
+                                        <img alt="" class="logo" src="images/logo-light.png"  width="220" height="80"/>
+                                        <img alt="" class="logo-2" src="images/logo.png"  width="220" height="80" />
                                     </a>
                                 </div>
                                 <!-- logo close -->
@@ -87,7 +87,7 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
-                                <div class="h-phone md-hide"><span>Need&nbsp;Help?</span><i class="fa fa-phone"></i> 1 200 300 9000</div>
+                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span><i class="fa fa-phone"></i>+55(99)999999</div>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>
@@ -136,7 +136,7 @@
                     </div>
                 </div>
             </section>
-            <section data-bgcolor="#111111" class="text-light">
+            <section data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5 offset-lg-7">
@@ -243,7 +243,7 @@
                     </div>
                 </div>
             </section>
-            <section id="section-text" data-bgcolor="#111111" class="text-light">
+            <section id="section-text" data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-4 col-md-12 wow fadeInRight" data-wow-delay=".2s">

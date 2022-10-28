@@ -60,8 +60,8 @@
                                 <!-- logo begin -->
                                 <div id="logo">
                                     <a href="index.html">
-                                        <img alt="" class="logo" src="images/logo-light.png" />
-                                        <img alt="" class="logo-2" src="images/logo.png" />
+                                        <img alt="" class="logo" src="images/logo-light.png"  width="220" height="80"/>
+                                        <img alt="" class="logo-2" src="images/logo.png"  width="220" height="80" />
                                     </a>
                                 </div>
                                 <!-- logo close -->
@@ -100,7 +100,7 @@
         <div class="no-bottom no-top" id="content">
             <div id="top"></div>
             <section aria-label="section" class="jarallax vh-100 no-padding text-light">
-                <img src="images/background/5.jpg" class="jarallax-img" alt="">
+                <img src="images/background/5.png" class="jarallax-img" alt="">
 
                 <div class="v-center">
                     <div class="container">
@@ -224,12 +224,12 @@
                     </div>
                 </div>
             </section>
-            <section data-bgcolor="#f2f2f2">
+            <section data-bgcolor="#0c2022">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5 offset-lg-7">
                             <span class="p-title">EXPERIÊNCIA</span><br>
-                            <h2>
+                            <h2  style="color:white">
                                 Let Our Experience<br>be Your Guide
                             </h2>
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
