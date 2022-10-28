@@ -60,8 +60,8 @@
                                 <!-- logo begin -->
                                 <div id="logo">
                                     <a href="index.html">
-                                        <img alt="" class="logo" src="images/logo-light.png"  width="220" height="80"/>
-                                        <img alt="" class="logo-2" src="images/logo.png"  width="220" height="80" />
+                                        <img alt="" class="logo" src="images/logo-light.png"  width="220" height="60"/>
+                                        <img alt="" class="logo-2" src="images/logo.png"  width="220" height="60" />
                                     </a>
                                 </div>
                                 <!-- logo close -->
