@@ -101,14 +101,14 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-white">
-                <img src="images/background/subheader3.jpg" class="jarallax-img" alt="">
+                <img src="images/background/subheader3.png" class="jarallax-img" alt="">
                 <div class="center-y relative text-center">
                     <div class="container">
                         <div class="row">
                             <div class="col text-center">
                                 <div class="spacer-single"></div>
-                                <h1>About Us</h1>
-                                <p>Reputation. Respect. Result.</p>
+                                <h1>Sobre Nos</h1>
+                                <p>Reputação. Respeito. Resultado.</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -120,17 +120,20 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-md-5">
-                            <span class="p-title">Who We Are</span><br>
-                            <h2>Your partner for legal</h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.</p>
+                            <span class="p-title">Quem somos nós</span><br>
+                            <h2>Seu parceiro jurídico</h2>
+                            <p>LA Essencial Jus é uma consultoria fiscal que chega ao mercado atuando de maneira ágil, inovadora e multidisciplinar, através de tecnologia de ponta e profissionais qualificados. Com inquietude na busca por alternativas seguras e inovadoras, nossas soluções atendem as demandas reais dos nossos clientes. Criamos soluções assertivas de fluxo de caixa para negócios de todos os portes, por meio de mineração de créditos previdenciários, fiscais e de depósitos recursais. 
+                                Também levantamos oportunidades fiscais em empresas do Simples Nacional e oferecemos serviço de adequação à LGPD/Compliance. Além disso, somos credenciadas como administradora judicial na gestão de recuperações judiciais e falências.
+                                ​Prezamos pela responsabilidade social, diversidade e sustentabilidade, pois somente com propósito há ganho!
+                            </p>
                         </div>
                         <div class="col-md-6 offset-md-1">
                             <div class="de-images">
                                 <div class="di-text text-white bg-color">
                                     <h1>2500</h1><span>Solved Cases</span>
                                 </div>
-                                <img class="di-small-2" src="images/misc/d2.jpg" alt="" />
-                                <img class="di-big img-fluid" src="images/misc/d1.jpg" alt="" />
+                                <img class="di-small-2" src="images/misc/d2.jpeg" alt="" />
+                                <img class="di-big img-fluid" src="images/misc/d1.jpeg" alt="" />
                             </div>
                         </div>
                     </div>
