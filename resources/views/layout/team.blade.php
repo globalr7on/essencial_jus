@@ -119,9 +119,9 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5">
-                            <span class="p-title">Managing Partner</span><br>
+                            <span class="p-title">Sócio Administrador</span><br>
                             <h2>
-                                Fynley Wilkinson
+                                Daniel Schmidt
                             </h2>
                             <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa eiusmod id nostrud sit cupidatat in veniam ad. Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
                             <div class="social-icons s1">
@@ -134,15 +134,15 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/t1.jpg) center"></div>
+                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/t1.png) center"></div>
             </section>
             <section data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5 offset-md-7">
-                            <span class="p-title">Senior Partner</span><br>
+                            <span class="p-title">Sócia Administrador</span><br>
                             <h2>
-                                Sasha Welsh
+                                Josiane Schimiloski
                             </h2>
                             <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa eiusmod id nostrud sit cupidatat in veniam ad. Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
                             <div class="social-icons s1">
@@ -155,28 +155,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6" data-bgimage="url(images/background/t2.jpg) center"></div>
-            </section>
-            <section data-bgcolor="#0c2022" class="text-light">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-5">
-                            <span class="p-title">Associate</span><br>
-                            <h2>
-                                John Shepard
-                            </h2>
-                            <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa eiusmod id nostrud sit cupidatat in veniam ad. Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
-                            <div class="social-icons s1">
-                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                <a href="#"><i class="fa fa-rss fa-lg"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/t3.jpg) center"></div>
+                <div class="image-container col-md-6" data-bgimage="url(images/background/t2.png) center"></div>
             </section>
         </div>
         <!-- content close -->
