@@ -130,7 +130,7 @@
                         <div class="col-md-6 offset-md-1">
                             <div class="de-images">
                                 <div class="di-text text-white bg-color">
-                                    <h1>2500</h1><span>Solved Cases</span>
+                                    <h1>2500</h1><span>Casos Resolvidos</span>
                                 </div>
                                 <img class="di-small-2" src="images/misc/d2.jpeg" alt="" />
                                 <img class="di-big img-fluid" src="images/misc/d1.jpeg" alt="" />
