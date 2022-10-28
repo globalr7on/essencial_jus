@@ -106,8 +106,8 @@
                         <div class="row">
                             <div class="col text-center">
                                 <div class="spacer-single"></div>
-                                <h1>The Team</h1>
-                                <p>Reputation. Respect. Result.</p>
+                                <h1>Equipe</h1>
+                                <p>Reputação. Respeito. Resultado.</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
