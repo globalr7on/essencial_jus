@@ -131,7 +131,7 @@
                                 </div>
                                 <i class="wm icofont-worker"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">consulte Mais informação</a>
+                                <a href="#" class="btn-custom btn-black">Lẽr mais</a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -143,7 +143,7 @@
                                 </div>
                                 <i class="wm icofont-medical-sign-alt"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">consulte Mais informação</a>
+                                <a href="#" class="btn-custom btn-black">Lẽr mais</a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -155,7 +155,7 @@
                                 </div>
                                 <i class="wm icofont-law-order"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">consulte Mais informação</a>
+                                <a href="#" class="btn-custom btn-black">Lẽr mais</a>
                             </div>
                         </div>
                     </div>
