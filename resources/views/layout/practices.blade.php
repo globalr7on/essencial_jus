@@ -116,119 +116,90 @@
                 </div>
             </section>
             <!-- section close -->
-            <section>
+            <section data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-worker"></i>
-                                <div class="text">
-                                    <h4>Labor</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-worker"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-medical-sign-alt"></i>
-                                <div class="text">
-                                    <h4>Medical &amp; Health Care</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-medical-sign-alt"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-mining"></i>
-                                <div class="text">
-                                    <h4>Mining</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-mining"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-law-order"></i>
-                                <div class="text">
-                                    <h4>Civil &amp; Criminal</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-law-order"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-group-students"></i>
-                                <div class="text">
-                                    <h4>Family &amp; Marriage</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-group-students"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-money"></i>
-                                <div class="text">
-                                    <h4>Corporate &amp; Investment</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-money"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-building"></i>
-                                <div class="text">
-                                    <h4>Property</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-building"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-bank"></i>
-                                <div class="text">
-                                    <h4>Banking &amp; Insurance</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-bank"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6 mb30">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-light-bulb"></i>
-                                <div class="text">
-                                    <h4>Intellectual Property</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-light-bulb"></i>
-                                <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
-                            </div>
+                    <div class="row align-items-center">
+                        <div class="col-lg-5">
+                            <span class="p-title">Recuperação de Crédito Previdenciário</span><br>
+                            <h2>
+                                Como recuperar os valores pagos
+                            </h2>
+                            <p>
+                            Salário-maternidade, Aviso Prévio Indenizado, são verbas indenizatórias e não podem sofrer incidência de contribuição previdenciária. Regulada pela lei nº 8.212/1991, a contribuição previdenciária está na Constituição Federal e disciplina o pagamento de 20% sobre a folha de pagamento mensal de funcionários e avulsos. Nesse montante, além dos salários, estão incluídas as demais formas de pagamento regulares, como gorjetas, ganhos habituais e
+                            adiantamentos.
+                            </p>
+                            <p>
+                            Passíveis de recuperação são as verbas que não representam remuneração, mas sim que são indenizatórias. Na prática, significa todos aqueles pagamentos aos seus funcionários, mas que não estão relacionados ao trabalho que realizaram dentro do período analisado.
+                            Indenizatórios, portanto, são os pagamentos feitos a título de: salário maternidade,
+                            </p>
+                            <p>
+                            Aviso Prévio Indenizado, entre outras. Esses valores não são considerados salários e, assim, não devem sofrer incidência da contribuição previdenciária.
+                            </p>
+                            <p>
+                            <strong>As vantagens de recuperar o Crédito Previdenciário</strong>
+                            Um dos maiores sócios de qualquer negócio é o governo. Desse modo, reduzir a tributação de maneira legal é uma das principais estratégias de competitividade das empresas. Confira as vantagens de obter de volta os créditos do INSS.
+                            </p>
+                            <p>
+                            A recuperação de crédito do INSS possibilita reduzir os custos envolvendo o pagamento de tributos e, assim, melhorar a saúde financeira do negócio. Possibilita também reduzir os tributos que incidem sobre a folha de pagamento e oferecer mais benefícios e vantagens aos funcionários. Possibilita ainda que as áreas de RH e contábil das organizações fiquem de acordo com a legislação vigente e atentas às modificações e novos entendimentos
+                            </p>
                         </div>
                     </div>
                 </div>
+                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/t1.png) center"></div>
+            </section>
+            <section data-bgcolor="#0c2022" class="text-light">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 offset-md-7">
+                            <span class="p-title">Recuperação de Crédito Fiscal</span><br>
+                            
+                            <p>
+                            Trata-se de uma metodologia fundamental para as empresas recuperarem créditos de tributos recolhidos a maior ou indevidamente.
+                            </p>
+                            <p>
+                            A revisão fiscal é uma análise dos procedimentos adotados pelas áreas fiscais e tributárias das empresas, com o objetivo de mapear situações que possam ser corrigidas ou aprimoradas. Trata-se de um diagnóstico completo, fundamental para traçar o
+                            panorama fiscal. A metodologia pode ser decisiva para que a empresa recupere valores recolhidos de maneira indevida, preservando o seu fluxo de caixa.
+                            </p>
+                            <p>
+                            A análise é usada também nos casos de fusão e aquisição de empresas, em que potenciais compradores buscam respostas sobre os riscos de novos negócios. Assim, uma revisão fiscal é sempre recomendada em processos de due diligence. Afinal, os dados levantados na revisão devem ser considerados na avaliação de viabilidade de um contrato.
+                            </p>
+                            <p>
+                            Como funciona a Recuperação de Créditos Fiscais?
+                            O serviço destina-se a empresas optantes pelo Lucro Real, Presumido e Simples Nacional.
+                            </p>
+                            <p>
+                            Para todas empresas optantes, recomenda-se a Revisão de Tributos Federais dos últimos cinco anos.
+                            </p>
+                            <p>
+                            Esse serviço analisa tributos como: Imposto de Renda Pessoa Jurídica (IRPJ); Contribuição Social sobre o Lucro Líquido (CSLL); Programa de Integração Social (PIS); Contribuição para o Financiamento da Seguridade Social (COFINS); Imposto sobre Produtos Industrializados (IPI).
+                            </p>
+                            <p>
+                            Nele também, são oferecidas soluções tributárias para operações envolvendo o IPI e ICMS otimizando a carga tributária incidente sobre a compra e venda de produtos.
+                            </p>
+                            <p>
+                            É bom saber que esses serviços devem ser feitos periodicamente porque a legislação fiscal é alterada constantemente.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="image-container col-md-6" data-bgimage="url(images/background/t2.png) center"></div>
+            </section>
+            <section data-bgcolor="#0c2022" class="text-light">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5">
+                            <span class="p-title">Depósitos Recursais</span><br>
+                            <p>
+                                A nossa metodologia é composta de inteligência artificial e profissionais altamente qualificados, gerando oportunidades de valores expressivos para o seu negócio.
+                            </p>
+                            <p>
+                            <strong>Por que o depósito recursal é pago?</strong>
+                            Quando uma empresa deseja recorrer de uma sentença desfavorável em um processo trabalhista é obrigada a efetuar judicialmente o depósito recursal que é considerado uma garantia de pagamento ao trabalhador, quando ganha a causa.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/t1.png) center"></div>
             </section>
         </div>
         <!-- content close -->

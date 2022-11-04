@@ -118,44 +118,44 @@
             </section>
             <section aria-label="section" class="no-padding bg-color">
                 <div class="container-fluid">
-                    <div class="row no-gutters align-items-center">
+                    <div class="row no-gutters align-items-center" style="background-color:#0c2022">
                         <div class="col-lg-3 col-md-6 text-center text-light">
                             <h3 class="padding40 no-margin">Área de Atuação</h3>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="feature-box f-boxed style-3 text-center">
                                 <i class="id-color icofont-worker"></i>
-                                <div class="text">
-                                    <h4>Labor</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                <div class="text" nowrap>
+                                    <h4>Recuperação de Crédito Previdenciário</h4>
+                                    A recuperação de crédito do INSS possibilita reduzir os custos envolvendo o pagamento de tributos e, assim, melhorar a saúde financeira do negócio;
                                 </div>
                                 <i class="wm icofont-worker"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
+                                <a href="#" class="btn-custom btn-black">consulte Mais informação</a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="feature-box f-boxed style-3 text-center">
                                 <i class="id-color icofont-medical-sign-alt"></i>
-                                <div class="text">
-                                    <h4>Medical &amp; Health Care</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                <div class="text" nowrap>
+                                    <h4>Recuperação de Crédito <br>Fiscal</h4>
+                                    Brasil, recordista mundial na tributação de empresas. Ranking da OCDE mostra como o setor produtivo deve estar atento à revisão fiscal e à recuperação de tributos.
                                 </div>
                                 <i class="wm icofont-medical-sign-alt"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
+                                <a href="#" class="btn-custom btn-black">consulte Mais informação</a>
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
                             <div class="feature-box f-boxed style-3 text-center">
                                 <i class="id-color icofont-law-order"></i>
-                                <div class="text">
-                                    <h4>Civil &amp; Criminal</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
+                                <div class="text" nowrap>
+                                    <h4>Depósitos Recursais</h4>
+                                    Quando uma empresa deseja recorrer de uma sentença desfavorável em um processo trabalhista é obrigada a efetuar judicialmente o depósito recursal que é considerado uma garantia de pagamento ao trabalhador, quando ganha a causa.
                                 </div>
                                 <i class="wm icofont-law-order"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Read More</a>
+                                <a href="#" class="btn-custom btn-black">consulte Mais informação</a>
                             </div>
                         </div>
                     </div>
