@@ -101,13 +101,13 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-white">
-                <img src="images/background/subheader2.jpg" class="jarallax-img" alt="">
+                <img src="images/background/subheader2.png" class="jarallax-img" alt="">
                 <div class="center-y relative text-center">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <h1>Contact Us</h1>
-                                <p>Reputation. Respect. Result.</p>
+                                <h1>Contate-nós</h1>
+                                <p>Reputação. Respeito. Resultado.</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -119,34 +119,34 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="images/misc/p1.jpg" alt="" class="img-fluid mb30">
+                            <!-- <img src="images/misc/p1.jpg" alt="" class="img-fluid mb30">
                             <h3>US Office</h3>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>
                                 <span><i class="id-color fa fa-phone fa-lg"></i>+1 333 9296</span>
                                 <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
                                 <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
-                            </address>
+                            </address> -->
                         </div>
                         <div class="col-md-4">
                             <img src="images/misc/p2.jpg" alt="" class="img-fluid mb30">
-                            <h3>UK Office</h3>
+                            <h3>Escritorio Curitiba</h3>
                             <address class="s1">
-                                <span><i class="id-color fa fa-map-marker fa-lg"></i>100 Mainstreet Center, Sydney</span>
-                                <span><i class="id-color fa fa-phone fa-lg"></i>+61 333 9296</span>
-                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
-                                <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
+                                <span><i class="id-color fa fa-map-marker fa-lg"></i>Av. República Argentina, 2275 – SALA 1205- Água Verde</span>
+                                <span><i class="id-color fa fa-phone fa-lg"></i>+55(041)3618-7989</span>
+                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contato@essencialjus.com</a></span>
+                                <!-- <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span> -->
                             </address>
                         </div>
                         <div class="col-md-4">
-                            <img src="images/misc/p3.jpg" alt="" class="img-fluid mb30">
+                            <!-- <img src="images/misc/p3.jpg" alt="" class="img-fluid mb30">
                             <h3>AU Office</h3>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>100 Mainstreet Center, Sydney</span>
                                 <span><i class="id-color fa fa-phone fa-lg"></i>+61 333 9296</span>
                                 <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
                                 <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
-                            </address>
+                            </address> -->
                         </div>
                     </div>
                 </div>
@@ -155,26 +155,26 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2 mb-sm-30 text-center">
-                            <h3>Do you have any question?</h3>
+                            <h3>Você tem alguma pergunta?</h3>
                             <form name="contactForm" id="contact_form" class="form-border" method="post" action="email.php">
                                 <div class="field-set">
-                                    <input type="text" name="name" id="name" class="form-control" placeholder="Your Name" />
+                                    <input type="text" name="name" id="name" class="form-control" placeholder="Seu Nome" />
                                 </div>
                                 <div class="field-set">
-                                    <input type="text" name="email" id="email" class="form-control" placeholder="Your Email" />
+                                    <input type="text" name="email" id="email" class="form-control" placeholder="Seu Email" />
                                 </div>
                                 <div class="field-set">
-                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Your Phone" />
+                                    <input type="text" name="phone" id="phone" class="form-control" placeholder="Seu telefóne" />
                                 </div>
                                 <div class="field-set">
-                                    <textarea name="message" id="message" class="form-control" placeholder="Your Message"></textarea>
+                                    <textarea name="message" id="message" class="form-control" placeholder="Mensagem"></textarea>
                                 </div>
                                 <div class="spacer-half"></div>
                                 <div id="submit">
-                                    <input type="submit" id="send_message" value="Submit Form" class="btn btn-custom" />
+                                    <input type="submit" id="send_message" value="Enviar" class="btn btn-custom" />
                                 </div>
-                                <div id="mail_success" class="success">Your message has been sent successfully.</div>
-                                <div id="mail_fail" class="error">Sorry, error occured this time sending your message.</div>
+                                <div id="mail_success" class="success">Sua mensagem foi enviada com sucesso.</div>
+                                <div id="mail_fail" class="error">Desculpe, ocorreu um erro desta vez ao enviar sua mensagem.</div>
                             </form>
                         </div>
                         <div class="col-lg-4">
