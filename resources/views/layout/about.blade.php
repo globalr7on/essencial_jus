@@ -136,7 +136,7 @@
                     </div>
                 </div>
             </section>
-            <section data-bgcolor="#0c2022" class="text-light">
+            <!-- <section data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5 offset-lg-7">
@@ -170,14 +170,14 @@
                     </div>
                 </div>
                 <div class="jarallax image-container col-md-6 pull-right">
-                    <img src="images/background/9.jpg" class="jarallax-img" alt="">
+                    <img src="images/background/9.png" class="jarallax-img" alt="">
                 </div>
-            </section>
+            </section> -->
             <section aria-label="section">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 text-center">
-                            <h2>Our Lawyer Team</h2>
+                            <h2>Nosso Time de Advogados</h2>
                             <div class="small-border"></div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
