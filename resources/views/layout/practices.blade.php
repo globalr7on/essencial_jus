@@ -145,7 +145,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/t1.png) center"></div>
+                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/.png) center"></div>
             </section>
             <section data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
@@ -182,7 +182,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6" data-bgimage="url(images/background/t2.png) center"></div>
+                <div class="image-container col-md-6" data-bgimage="url(images/background/.png) center"></div>
             </section>
             <section data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
@@ -199,7 +199,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/t1.png) center"></div>
+                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/.png) center"></div>
             </section>
         </div>
         <!-- content close -->
