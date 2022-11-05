@@ -106,8 +106,8 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <h1>News</h1>
-                                <p>Reputation. Respect. Result.</p>
+                                <h1>Blog</h1>
+                                <p>Reputação. Respeito. Resultado.</p>
                             </div>
                             <div class="clearfix"></div>
                         </div>
