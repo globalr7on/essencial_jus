@@ -173,10 +173,10 @@
                     <img src="images/background/9.png" class="jarallax-img" alt="">
                 </div>
             </section> -->
-            <section aria-label="section">
+            <section aria-label="section" style="background-color:#0c2022">
                 <div class="container">
                     <div class="row" >
-                        <div class="col-md-12 text-center">
+                        <div class="col-md-12 text-center text-white">
                             <h2>Nosso Time de Advogados</h2>
                             <div class="small-border"></div>
                         </div>
@@ -196,7 +196,7 @@
                                     <div class="fpw-overlay-btm"></div>
                                     <img src="images/background/t1.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>Daniel Schmidt</h4>
+                                <h4 class="text-white">Daniel Schmidt</h4>
                                 Sócio Administrador
                             </div>
                         </div>
@@ -216,30 +216,10 @@
                                     <div class="fpw-overlay-btm"></div>
                                     <img src="images/background/t2.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>Josiane Schimiloski</h4>
+                                <h4 class="text-white">Josiane Schimiloski</h4>
                                 Sócia Administrador
                             </div>
                         </div>
-                        <!-- <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
-                            <div class="f-profile text-center">
-                                <div class="fp-wrap f-invert">
-                                    <div class="fpw-overlay">
-                                        <div class="fpwo-wrap">
-                                            <div class="fpwow-icons">
-                                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="fpw-overlay-btm"></div>
-                                    <img src="images/team/3.jpg" class="fp-image img-fluid" alt="">
-                                </div>
-                                <h4>John Shepard</h4>
-                                Associate
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </section>
