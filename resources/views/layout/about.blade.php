@@ -175,7 +175,7 @@
             </section> -->
             <section aria-label="section">
                 <div class="container">
-                    <div class="row">
+                    <div class="row" >
                         <div class="col-md-12 text-center">
                             <h2>Nosso Time de Advogados</h2>
                             <div class="small-border"></div>
@@ -194,10 +194,10 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="images/team/1.jpg" class="fp-image img-fluid" alt="">
+                                    <img src="images/background/t1.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>Fynley Wilkinson</h4>
-                                Managing Partner
+                                <h4>Daniel Schmidt</h4>
+                                Sócio Administrador
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
@@ -214,13 +214,13 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="images/team/2.jpg" class="fp-image img-fluid" alt="">
+                                    <img src="images/background/t2.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>Sasha Welsh</h4>
-                                Senior Partner
+                                <h4>Josiane Schimiloski</h4>
+                                Sócia Administrador
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
+                        <!-- <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
                             <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
                                     <div class="fpw-overlay">
@@ -239,31 +239,11 @@
                                 <h4>John Shepard</h4>
                                 Associate
                             </div>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </section>
-            <section id="section-text" data-bgcolor="#0c2022" class="text-light">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-4 col-md-12 wow fadeInRight" data-wow-delay=".2s">
-                            <div class="de_count ultra-big s2 text-center">
-                                <h3 class="timer" data-to="20" data-speed="1000">20</h3>
-                                <span class="id-color">Years of Experience</span>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 p-lg-5  mb-sm-30 wow fadeInRight" data-wow-delay=".4s">
-                            <span class="p-title">Welcome</span><br>
-                            <h2>Justica is Your Best Partner for Legal Solutions</h2>
-                        </div>
-                        <div class="col-lg-4 wow fadeInRight" data-wow-delay=".6s">
-                            <p>
-                                At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
+           
             <section>
                 <div class="container">
                     <div class="row">
