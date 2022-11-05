@@ -258,7 +258,7 @@
                     </div>
                 </div>
                 <div class="jarallax image-container col-md-6 pull-right">
-                    <img src="images/background/9.jpg" class="jarallax-img" alt="">
+                    <img src="images/background/9.png" class="jarallax-img" alt="">
                 </div>
             </section>
             <section id="section-testimonial">
