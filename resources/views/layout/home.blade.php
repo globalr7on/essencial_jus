@@ -192,7 +192,7 @@
                                         <a href="#" class="btn-custom capsule">Read more</a>
                                     </div>
                                 </div>
-                                <img src="images/services/1.jpg" alt="" class="img-responsive" />
+                                <img src="images/services/1.png" alt="" class="img-responsive" />
                             </div>
                         </div>
                         <div class="col-md-4 wow fadeInRight" data-wow-delay=".4s">
@@ -205,7 +205,7 @@
                                         <a href="#" class="btn-custom capsule">Read more</a>
                                     </div>
                                 </div>
-                                <img src="images/services/2.jpg" alt="" class="img-responsive" />
+                                <img src="images/services/2.png" alt="" class="img-responsive" />
                             </div>
                         </div>
                         <div class="col-md-4 wow fadeInRight" data-wow-delay=".6s">
@@ -218,7 +218,7 @@
                                         <a href="#" class="btn-custom capsule">Read more</a>
                                     </div>
                                 </div>
-                                <img src="images/services/3.jpg" alt="" class="img-responsive" />
+                                <img src="images/services/3.png" alt="" class="img-responsive" />
                             </div>
                         </div>
                     </div>
