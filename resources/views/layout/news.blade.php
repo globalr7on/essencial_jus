@@ -176,7 +176,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6 mb30">
+                        <!-- <div class="col-lg-4 col-md-6 mb30">
                             <div class="bloglist item">
                                 <div class="post-content">
                                     <div class="date-box">
@@ -232,16 +232,16 @@
                                     </div>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="spacer-single"></div>
                         <ul class="pagination">
                             <li><a href="#">Prev</a></li>
                             <li class="active"><a href="#">1</a></li>
-                            <li><a href="#">2</a></li>
+                            <!-- <li><a href="#">2</a></li>
                             <li><a href="#">3</a></li>
                             <li><a href="#">4</a></li>
                             <li><a href="#">5</a></li>
-                            <li><a href="#">Next</a></li>
+                            <li><a href="#">Next</a></li> -->
                         </ul>
                     </div>
                 </div>
