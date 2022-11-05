@@ -101,7 +101,7 @@
             <div id="top"></div>
             <!-- section begin -->
             <section id="subheader" class="jarallax text-white">
-                <img src="images/background/subheader1.jpg" class="jarallax-img" alt="">
+                <img src="images/background/subheader1.png" class="jarallax-img" alt="">
                 <div class="center-y relative text-center">
                     <div class="container">
                         <div class="row">
