@@ -100,7 +100,8 @@
         <div class="no-bottom no-top" id="content">
             <div id="top"></div>
             <!-- section begin -->
-            <section id="subheader" class="text-white" data-bgcolor="#111111">
+            <section id="subheader" class="jarallax text-white">
+                <img src="images/background/subheader4.png" class="jarallax-img" alt="">
                 <div class="center-y relative text-center">
                     <div class="container">
                         <div class="row">
