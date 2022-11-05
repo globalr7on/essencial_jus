@@ -186,10 +186,10 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-people"></i><span>Business Law</span></h3>
+                                        <h3><i class="icofont-people"></i><span>Destaque 1</span></h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">Read more</a>
+                                        <a href="#" class="btn-custom capsule">lẽr mais</a>
                                     </div>
                                 </div>
                                 <img src="images/services/1.png" alt="" class="img-responsive" />
@@ -199,10 +199,10 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-home"></i><span>Family Law</span></h3>
+                                        <h3><i class="icofont-home"></i><span>Destaque 2</span></h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">Read more</a>
+                                        <a href="#" class="btn-custom capsule">lẽr mais</a>
                                     </div>
                                 </div>
                                 <img src="images/services/2.png" alt="" class="img-responsive" />
@@ -212,10 +212,10 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-law-order"></i><span>Criminal Law</span></h3>
+                                        <h3><i class="icofont-law-order"></i><span>Destaque 3</span></h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">Read more</a>
+                                        <a href="#" class="btn-custom capsule">lẽr mais</a>
                                     </div>
                                 </div>
                                 <img src="images/services/3.png" alt="" class="img-responsive" />
