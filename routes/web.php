@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\SubscriberController;
 
 /*
 |--------------------------------------------------------------------------
@@ -12,6 +13,10 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+
+// Route::post('/newsletter', [newsLetterController::class, 'newsLetter'])->name('newsletter');
+
+// Route::post('/subscribe', [SubscriberController::class, 'subscribe'])->name('subscribe.send');
 
 Route::get('/sobre_nos', function () {
     return view('layout.about');

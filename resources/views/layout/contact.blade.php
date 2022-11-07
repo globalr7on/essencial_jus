@@ -27,6 +27,8 @@
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
     <link href="css/coloring.css" rel="stylesheet" type="text/css">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.6.7/sweetalert2.min.css">
 </head>
 
 <body>
@@ -156,7 +158,7 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2 mb-sm-30 text-center">
                             <h3>Você tem alguma pergunta?</h3>
-                            <form name="contactForm" id="contact_form" class="form-border" method="post" action="email.php">
+                            <form name="contactForm" id="contact_form" class="form-border" method="post" action="{{ route('contact.send') }}">
                                 <div class="field-set">
                                     <input type="text" name="name" id="name" class="form-control" placeholder="Seu Nome" />
                                 </div>
@@ -170,9 +172,10 @@
                                     <textarea name="message" id="message" class="form-control" placeholder="Mensagem"></textarea>
                                 </div>
                                 <div class="spacer-half"></div>
-                                <div id="submit">
+                                <button type=submit class="btn btn-custom" id="salvar" value="Enviar">Enviar</button>
+                                <!-- <div id="submit">
                                     <input type="submit" id="send_message" value="Enviar" class="btn btn-custom" />
-                                </div>
+                                </div> -->
                                 <div id="mail_success" class="success">Sua mensagem foi enviada com sucesso.</div>
                                 <div id="mail_fail" class="error">Desculpe, ocorreu um erro desta vez ao enviar sua mensagem.</div>
                             </form>
@@ -297,6 +300,15 @@
     <script src="js/jquery.countTo.js"></script>
     <script src="js/jquery.countdown.js"></script>
     <script src="js/designesia.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+    $('body').on('click', '#salvar', function() {
+        Swal.fire(
+          'Registrado Com Successo!',
+          'success'
+        )
+    })
+    </script>
 </body>
 
 </html>

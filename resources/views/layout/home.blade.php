@@ -48,6 +48,11 @@
                     </div>
                 </div>
                 <div class="clearfix"></div>
+                @if (session('message'))
+                    <div class="alert alert-success">
+                        {{ session('message') }}
+                    </div>
+                 @endif
             </div>
         </div>
         <!-- header begin -->
@@ -100,8 +105,10 @@
         <div class="no-bottom no-top" id="content">
             <div id="top"></div>
             <section aria-label="section" class="jarallax vh-100 no-padding text-light">
+                <!-- @if(session()->has('message'))
+                <p class="alert alert-success"> {{ session()->get('message') }}</p>
+                @endif -->
                 <img src="images/background/5.png" class="jarallax-img" alt="">
-
                 <div class="v-center">
                     <div class="container">
                         <div class="row align-items-center">
@@ -474,9 +481,10 @@
                         <div class="widget">
                             <h5 class="id-color">Boletim de Notícias</h5>
                             <p>Inscreva-se em nossa newsletter para receber as últimas notícias, atualizações e ofertas especiais em sua caixa de entrada.</p>
-                            <form action="blank.php" class="row" id="form_subscribe" method="post" name="form_subscribe">
+                            <form action="{{ route('subscribe.send') }}" method="post">
+                                @csrf       
                                 <div class="col text-center">
-                                    <input class="form-control" id="name_1" name="name_1" placeholder="Digite seu e-mail" type="text" /> <a href="#" id="btn-submit"><i class="fa fa-long-arrow-right"></i></a>
+                                    <input class="form-control" id="email" name="email" placeholder="Digite seu e-mail" type="text" /> <button type=submit><i class="fa fa-long-arrow-right"></i></button>
                                     <div class="clearfix"></div>
                                 </div>
                             </form>
