@@ -15,28 +15,19 @@ class SubscriberController extends Controller
     
     public function subscribe(Request $request){
         
-        // dd($request->all());
-        // $email = $request->input('email');
         $validator = Validator::make($request->all(),[
             'email' => 'required|email|unique:subscribers'
         ]);
         if($validator->fails()){
-            return redirect()->back()->with('message', "Erro");  
-            // return new JsonResponse(
-            //     [
-            //         'success' => false, 
-            //         'message' => $validator->errors()
-            //     ], 422
-            // );
+            return redirect()->back()->with('message', "Erro");
         }
         $email = $request->get('email');
-        // dd($email);
+        
         $subscriber = Subscriber::create([
             'email' => $email
         ]);
         if($subscriber){
             Mail::to($email)->send(new Subscribe($email));
-            // Session::flash('message', "Registrado com sucesso");
             return redirect()->back()->with('message', "Registrador com sucesso");      
             
         }
