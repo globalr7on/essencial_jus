@@ -19,6 +19,7 @@ class SubscriberController extends Controller
             'email' => 'required|email|unique:subscribers'
         ]);
         if($validator->fails()){
+            dd($validator->fails());
             return redirect()->back()->with('message', "Erro");
         }
         $email = $request->get('email');
