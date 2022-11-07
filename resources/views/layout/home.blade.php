@@ -186,7 +186,7 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-people"></i><span>Destaque 1</span></h3>
+                                        <h3><i class="icofont-people"></i><span>Empresa de Lucro Presumido</span></h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                         <div class="spacer20"></div>
                                         <a href="#" class="btn-custom capsule">lẽr mais</a>
@@ -199,7 +199,7 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-home"></i><span>Destaque 2</span></h3>
+                                        <h3><i class="icofont-home"></i><span>Empresa de Lucro Real</span></h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                         <div class="spacer20"></div>
                                         <a href="#" class="btn-custom capsule">lẽr mais</a>
@@ -212,7 +212,7 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-law-order"></i><span>Destaque 3</span></h3>
+                                        <h3><i class="icofont-law-order"></i><span>Depósitos Recursais</span></h3>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                         <div class="spacer20"></div>
                                         <a href="#" class="btn-custom capsule">lẽr mais</a>
@@ -228,9 +228,9 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5 offset-lg-7">
-                            <span class="p-title">EXPERIÊNCIA</span><br>
+                            <span class="p-title">Serviço</span><br>
                             <h2  style="color:white">
-                                OPERAÇÃO SEGURA
+                                MINERAÇÃO DE CRÉDITOS TRIBUTÁRIOS
                             </h2>
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
                                 <li class="nav-item">
@@ -276,36 +276,36 @@
                         <div class="spacer-single"></div>
                         <div class="col-md-4">
                             <ul class="ul-style-2 wow fadeInRight" data-wow-delay=".2s">
-                                <li>Corporate and M&A</li>
-                                <li>Construction and Real Estate</li>
-                                <li>Commercial Duspute Resolution</li>
-                                <li>Employment</li>
+                                <li>Revisão Fiscal para empresas de Lucro Presumido</li>
+                                <li>Revisão Fiscal para empresas de Lucro Real</li>
+                                <li>Revisão Previdenciária para empresas de Lucro Presumido</li>
+                                <li>Revisão Previdenciária para empresas de Lucro Real</li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul class="ul-style-2 wow fadeInRight" data-wow-delay=".4s">
-                                <li>Banking and Finance</li>
-                                <li>Captial Market</li>
-                                <li>Environmental</li>
-                                <li>Intellectual Property Right</li>
+                                <li>Recuperação de Depósitos Recursais</li>
+                                <li>Compliance Tributário Fiscal</li>
+                                <li>Oportunidades Tributárias</li>
+                                <li>Consultoria Tributária</li>
                             </ul>
                         </div>
                         <div class="col-md-4">
                             <ul class="ul-style-2 wow fadeInRight" data-wow-delay=".6s">
-                                <li>Goverment</li>
-                                <li>Foundation/Non Profit Organization</li>
-                                <li>Bankcuptcy</li>
-                                <li>Criminal</li>
+                                <li>Consultivo Trabalhista</li>
+                                <li>TAX Litigation</li>
+                                <li>LGPD BRASIL</li>
+                                <!-- <li>Criminal</li> -->
                             </ul>
                         </div>
                     </div>
                 </div>
             </section>
-            <section aria-label="section">
+            <section aria-label="section" style="background-color: rgb(12, 32, 34)">
                 <div class="container">
-                    <div class="row">
+                    <div class="row" >
                         <div class="col-md-12 text-center">
-                            <h2>Our Lawyer Team</h2>
+                            <h2 style="color: white">Nossa Equipe de Advogados</h2>
                             <div class="small-border"></div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
@@ -322,14 +322,14 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="images/team/1.jpg" class="fp-image img-fluid" alt="">
+                                    <img src="images/background/t1.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>Fynley Wilkinson</h4>
-                                Managing Partner
+                                <h4 style="color: white">Daniel Schmidt</h4>
+                                Sócio Administrador
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
-                            <div class="f-profile text-center">
+                            <!-- <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
                                     <div class="fpw-overlay">
                                         <div class="fpwo-wrap">
@@ -346,7 +346,7 @@
                                 </div>
                                 <h4>Sasha Welsh</h4>
                                 Senior Partner
-                            </div>
+                            </div> -->
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
                             <div class="f-profile text-center">
@@ -362,10 +362,10 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="images/team/3.jpg" class="fp-image img-fluid" alt="">
+                                    <img src="images/background/t2.png"" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4>John Shepard</h4>
-                                Associate
+                                <h4 style="color: white">Josiane Schimiloski</h4>
+                                Sócia Administrador
                             </div>
                         </div>
                     </div>
