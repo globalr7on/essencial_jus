@@ -59,7 +59,7 @@
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                    <a href="index.html">
+                                    <a href="/">
                                         <img alt="" class="logo" src="images/logo-light.png"  width="220" height="60"/>
                                         <img alt="" class="logo-2" src="images/logo.png"  width="220" height="60" />
                                     </a>
@@ -110,7 +110,7 @@
                                 <h1 class="wow fadeInUp" data-wow-delay=".6s">Conheça nossas soluções de revisões fiscais</h1>
                                 <p class="lead wow fadeInUp" data-wow-delay=".8s">Vai continuar deixando o dinheiro da sua empresa na mesa até quando?.</p>
                                 <div class="spacer-20"></div>
-                                <a class="btn-custom wow fadeInUp" data-wow-delay="1s" href="features.html">Contate-nos</a>
+                                <a class="btn-custom wow fadeInUp" data-wow-delay="1s" href="/contato">Contate-nos</a>
                             </div>
                         </div>
                     </div>
