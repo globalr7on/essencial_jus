@@ -213,37 +213,37 @@
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="widget">
-                            <a href="index.html"><img alt="" class="img-fluid mb20" src="images/logo-light.png"></a>
+                            <a href="/"><img alt="" class="img-fluid mb20" src="images/logo-light.png"></a>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>Av. República Argentina, 2275 – SALA 1205- Água Verde – Curitiba, Paraná CEP 80610260</span>
-                                <span><i class="id-color fa fa-phone fa-lg"></i>+55(041)3618-7989</span>
-                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
+                                <span><i class="id-color fa fa-phone fa-lg"></i>+55(41)3618-7989</span>
+                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contato@essencialjus.com</a></span>
                                 <!-- <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span> -->
                             </address>
                         </div>
                     </div>
                     <div class="col-md-4">
-                        <h5 class="id-color mb20">Practice Areas</h5>
+                        <h5 class="id-color mb20">Área de Atuação</h5>
                         <ul class="ul-style-2">
-                            <li>Corporate and M&A</li>
-                            <li>Construction and Real Estate</li>
-                            <li>Commercial Duspute Resolution</li>
-                            <li>Employment</li>
-                            <li>Banking and Finance</li>
+                            <li>Revisão Fiscal para empresas de Lucro Presumido</li>
+                            <li>Revisão Fiscal para empresas de Lucro Real</li>
+                            <li>Revisão Previdenciária para empresas de Lucro Presumido</li>
+                            <li>Revisão Previdenciária para empresas de Lucro Real</li>
+                            <li>Recuperação de Depósitos Recursais</li>
                         </ul>
                     </div>
                     <div class="col-lg-4">
                         <div class="widget">
-                            <h5 class="id-color">Newsletter</h5>
-                            <p>Signup for our newsletter to get the latest news, updates and special offers in your inbox.</p>
+                            <h5 class="id-color">Boletim de Notícias</h5>
+                            <p>Inscreva-se em nossa newsletter para receber as últimas notícias, atualizações e ofertas especiais em sua caixa de entrada.</p>
                             <form action="blank.php" class="row" id="form_subscribe" method="post" name="form_subscribe">
                                 <div class="col text-center">
-                                    <input class="form-control" id="name_1" name="name_1" placeholder="enter your email" type="text" /> <a href="#" id="btn-submit"><i class="fa fa-long-arrow-right"></i></a>
+                                    <input class="form-control" id="name_1" name="name_1" placeholder="Digite seu e-mail" type="text" /> <a href="#" id="btn-submit"><i class="fa fa-long-arrow-right"></i></a>
                                     <div class="clearfix"></div>
                                 </div>
                             </form>
                             <div class="spacer-10"></div>
-                            <small>Your email is safe with us. We don't spam.</small>
+                            <small>Seu e-mail está seguro com a gente. Nós não fazemos spam.</small>
                         </div>
                     </div>
                 </div>
@@ -254,15 +254,13 @@
                         <div class="col-md-12">
                             <div class="de-flex">
                                 <div class="de-flex-col">
-                                    &copy; Copyright 2022 - Justica by Designesia
+                                <p> &copy; Copyright 2022 - <a href="/">Essencial Jus </a> by <a href="https://modofuturo.com/">Modo Futuro</a></p>
                                 </div>
                                 <div class="de-flex-col">
                                     <div class="social-icons">
-                                        <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
-                                        <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
-                                        <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
-                                        <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
-                                        <a href="#"><i class="fa fa-rss fa-lg"></i></a>
+                                        <a href="https://www.instagram.com/essencialjus"><i class="fa fa-instagram fa-lg"></i></a>
+                                        <a href="https://www.facebook.com/profile.php?id=100087669453621"><i class="fa fa-facebook fa-lg"></i></a>
+                                        <a href="https://www.linkedin.com/company/essencial-jus/"><i class="fa fa-linkedin fa-lg"></i></a>
                                     </div>
                                 </div>
                             </div>
