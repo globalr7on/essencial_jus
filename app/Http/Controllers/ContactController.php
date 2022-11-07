@@ -42,7 +42,7 @@ class ContactController extends Controller
             'name' => $name,
             'email' => $email,
             'phone' => $phone,
-            'message' => $message,
+            'message' => $message
         ]);
         if($contact){
             Mail::to($email)->send(new Contact($name, $email, $phone, $message));
