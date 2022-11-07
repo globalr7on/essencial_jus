@@ -139,7 +139,7 @@
                                 <i class="id-color icofont-medical-sign-alt"></i>
                                 <div class="text" nowrap>
                                     <h4>Recuperação de Crédito <br>Fiscal</h4>
-                                    Brasil, recordista mundial na tributação de empresas. Ranking da OCDE mostra como o setor produtivo deve estar atento à revisão fiscal e à recuperação de tributos.
+                                    Brasil, recordista mundial na tributação de empresas. Ranking da OCDE mostra como o setor produtivo deve estar atento à revisão fiscal e à recuperação...
                                 </div>
                                 <i class="wm icofont-medical-sign-alt"></i>
                                 <div class="spacer-single"></div>
@@ -150,8 +150,8 @@
                             <div class="feature-box f-boxed style-3 text-center">
                                 <i class="id-color icofont-law-order"></i>
                                 <div class="text" nowrap>
-                                    <h4>Depósitos Recursais</h4>
-                                    Quando uma empresa deseja recorrer de uma sentença desfavorável em um processo trabalhista é obrigada a efetuar judicialmente o depósito recursal que é considerado uma garantia de pagamento ao trabalhador, quando ganha a causa.
+                                    <h4>Depósitos <br> Recursais</h4>
+                                    Quando uma empresa deseja recorrer de uma sentença desfavorável em um processo trabalhista é obrigada a efetuar judicialmente o depósito ...
                                 </div>
                                 <i class="wm icofont-law-order"></i>
                                 <div class="spacer-single"></div>
