@@ -59,7 +59,7 @@
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
-                                    <a href="index.html">
+                                    <a href="/">
                                         <img alt="" class="logo" src="images/logo-light.png"  width="220" height="60"/>
                                         <img alt="" class="logo-2" src="images/logo.png"  width="220" height="60" />
                                     </a>
