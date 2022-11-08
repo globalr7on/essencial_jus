@@ -28,7 +28,7 @@ class SubscriberController extends Controller
             'email' => $email
         ]);
         if($subscriber){
-            Mail::to($email)->send(new Subscribe($email));
+            // Mail::to($email)->send(new Subscribe($email));
             return redirect()->back()->with('message', "Registrador com sucesso");      
             
         }
