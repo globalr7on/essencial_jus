@@ -23,14 +23,7 @@ class ContactController extends Controller
         ]);
         // dd($validator);
         if($validator->fails()){
-            dd($validator->errors());
             return redirect()->back()->with('message', "Erro");  
-            // return new JsonResponse(
-            //     [
-            //         'success' => false, 
-            //         'message' => $validator->errors()
-            //     ], 422
-            // );
         }
         $name = $request->get('name');
         $email = $request->get('email');
