@@ -38,7 +38,7 @@ class ContactController extends Controller
             'message' => $message
         ]);
         if($contact){
-            Mail::to($email)->send(new Contact($name, $email, $phone, $message));
+            // Mail::to($email)->send(new Contact($name, $email, $phone, $message));
             // Session::flash('message', "Registrado com sucesso");
             return redirect()->back()->with('message', "Registrador com sucesso");      
             
