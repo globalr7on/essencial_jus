@@ -87,7 +87,7 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
-                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span><i class="fa fa-phone"></i>+55(041)3618-7989</div>
+                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span><i class="fa fa-phone"></i>(41)36187989</div>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>
