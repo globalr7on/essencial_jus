@@ -36,7 +36,7 @@
                 <div class="topbar-left sm-hide">
                     <span class="topbar-widget tb-social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
                         <a href="#"><i class="fa fa-instagram"></i></a>
                     </span>
                 </div>
@@ -122,7 +122,7 @@
                     <div class="row align-items-center">
                         <div class="col-md-5">
                             <span class="p-title">Quem somos nós</span><br>
-                            <h2>Seu parceiro jurídico</h2>
+                            <h2>SEU CONSULTOR TRIBUTÁRIO</h2>
                             <p>Essencial Jus é uma consultoria fiscal que chega ao mercado atuando de maneira ágil, inovadora e multidisciplinar, através de tecnologia de ponta e profissionais qualificados. Com inquietude na busca por alternativas seguras e inovadoras, nossas soluções atendem as demandas reais dos nossos clientes. Criamos soluções assertivas de fluxo de caixa para negócios de todos os portes, por meio de mineração de créditos previdenciários, fiscais e de depósitos recursais. 
                                 Também levantamos oportunidades fiscais em empresas do Simples Nacional e oferecemos serviço de adequação à LGPD/Compliance. Além disso, somos credenciadas como administradora judicial na gestão de recuperações judiciais e falências.
                                 ​Prezamos pela responsabilidade social, diversidade e sustentabilidade, pois somente com propósito há ganho!
@@ -131,7 +131,7 @@
                         <div class="col-md-6 offset-md-1">
                             <div class="de-images">
                                 <img class="di-small-2" src="images/misc/d2.jpeg" alt="" />
-                                <img class="di-big img-fluid" src="images/misc/d1.jpeg" alt="" />
+                                <img class="di-big img-fluid" src="images/misc/d1_1.jpg" alt="" />
                             </div>
                         </div>
                     </div>
@@ -174,11 +174,11 @@
                     <img src="images/background/9.png" class="jarallax-img" alt="">
                 </div>
             </section> -->
-            <section aria-label="section" style="background-color:#0c2022">
+            <section aria-label="section" style="background-color: rgb(12, 32, 34)">
                 <div class="container">
                     <div class="row" >
-                        <div class="col-md-12 text-center text-white">
-                            <h2>Nosso Time de Advogados</h2>
+                        <div class="col-md-12 text-center">
+                            <h2 style="color: white">Nossa Equipe</h2>
                             <div class="small-border"></div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
@@ -195,13 +195,32 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="images/background/t1.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4 class="text-white">Daniel Schmidt</h4>
-                                Sócio Administrador
+                                <h4 style="color: white">Josiane Schimiloski</h4>
+                                Sócia Administrador
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
+                            <!-- <div class="f-profile text-center">
+                                <div class="fp-wrap f-invert">
+                                    <div class="fpw-overlay">
+                                        <div class="fpwo-wrap">
+                                            <div class="fpwow-icons">
+                                                <a href="#"><i class="fa fa-facebook fa-lg"></i></a>
+                                                <a href="#"><i class="fa fa-twitter fa-lg"></i></a>
+                                                <a href="#"><i class="fa fa-linkedin fa-lg"></i></a>
+                                                <a href="#"><i class="fa fa-pinterest fa-lg"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="fpw-overlay-btm"></div>
+                                    <img src="images/team/2.jpg" class="fp-image img-fluid" alt="">
+                                </div>
+                                <h4>Sasha Welsh</h4>
+                                Senior Partner
+                            </div> -->
+                        </div>
+                        <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
                             <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
                                     <div class="fpw-overlay">
@@ -215,52 +234,18 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="images/background/t2.png" class="fp-image img-fluid" alt="">
+                                    
                                 </div>
-                                <h4 class="text-white">Josiane Schimiloski</h4>
-                                Sócia Administrador
+                                <h4 style="color: white">Daniel Schmidt</h4>
+                                Sócio Administrador
                             </div>
                         </div>
+                        <img src="images/background/nossaequipe.jpg" class="fp-image img-fluid" alt="">
                     </div>
                 </div>
             </section>
            
-            <section>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-4 col-md-6">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-letter"></i>
-                                <div class="text">
-                                    <h4>Request Quote</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-letter"></i>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-investigation"></i>
-                                <div class="text">
-                                    <h4>Investigation</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-investigation"></i>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 col-md-6">
-                            <div class="feature-box f-boxed style-3 text-center">
-                                <i class="id-color icofont-hand-power"></i>
-                                <div class="text">
-                                    <h4>Case Fight</h4>
-                                    Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem.
-                                </div>
-                                <i class="wm icofont-hand-power"></i>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+          
         </div>
         <!-- content close -->
         <a href="#" id="back-to-top"></a>

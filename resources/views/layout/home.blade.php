@@ -36,7 +36,7 @@
                 <div class="topbar-left sm-hide">
                     <span class="topbar-widget tb-social">
                         <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-twitter"></i></a>
+                        <a href="#"><i class="fa fa-linkedin"></i></a>
                         <a href="#"><i class="fa fa-instagram"></i></a>
                     </span>
                 </div>
@@ -93,7 +93,7 @@
                             </div>
                             <div class="de-flex-col">
                             <button type="button" class="btn btn-outline-secondary ">Solicite analisis</button>
-                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span><i class="fa fa-phone"></i>(41)36187989</div>
+                            <div class="h-phone md-hide"><span>Precisa &nbsp;de auxilio?</span><i class="fa fa-phone"></i>(41)36187989</div>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>
@@ -194,39 +194,39 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-people"></i><span>Empresa de Lucro Presumido</span></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <h3><span>Ebook Recuperação de Créditos Fiscais</span></h3>
+                                        <p>Solução aplicável às empresas tributadas pelo Lucro Real e Lucro Presumido.</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">lẽr mais</a>
+                                        <a href="{{ asset('pdf/EbookRecuperacoesFiscais_EssencialJus_.pdf') }}"  target="_blank" class="btn-custom capsule">Download</a>
                                     </div>
                                 </div>
-                                <img src="images/services/1.png" alt="" class="img-responsive" />
+                                <img src="images/services/1_1.png" alt="" class="img-responsive" />
                             </div>
                         </div>
                         <div class="col-md-4 wow fadeInRight" data-wow-delay=".4s">
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-home"></i><span>Empresa de Lucro Real</span></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <h3><span>Ebook Recuperação de Créditos Previdenciários</span></h3>
+                                        <p>Temos assertividade e tecnologia mining tech para minerar, identificar, analisar e recuperar, com segurança e rapidez</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">lẽr mais</a>
+                                        <a href="{{ asset('pdf/Ebook_CreditosPrevidenciarios_.pdf') }}"  target="_blank" class="btn-custom capsule">Download</a>
                                     </div>
                                 </div>
-                                <img src="images/services/2.png" alt="" class="img-responsive" />
+                                <img src="images/services/1_2.png" alt="" class="img-responsive" />
                             </div>
                         </div>
                         <div class="col-md-4 wow fadeInRight" data-wow-delay=".6s">
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><i class="icofont-law-order"></i><span>Depósitos Recursais</span></h3>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <h3><span>Ebook Recuperação de Depósitos Recursais</span></h3>
+                                        <p>Depósitos recursais são os valores que as empresas precisam disponibilizar junto à Justiça do Trabalho para recorrer nas ações trabalhistas.</p>
                                         <div class="spacer20"></div>
-                                        <a href="#" class="btn-custom capsule">lẽr mais</a>
+                                        <a href="{{ asset('pdf/EbookDepositosRecursaisEssencialJus.pdf') }}"  target="_blank" class="btn-custom capsule">Download</a>
                                     </div>
                                 </div>
-                                <img src="images/services/3.png" alt="" class="img-responsive" />
+                                <img src="images/services/1_3.png" alt="" class="img-responsive" />
                             </div>
                         </div>
                     </div>
@@ -241,9 +241,9 @@
                                 MINERAÇÃO DE CRÉDITOS TRIBUTÁRIOS
                             </h2>
                             <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-                                <li class="nav-item">
+                                <!-- <li class="nav-item">
                                     <a class="nav-link active" id="pills-home-tab" data-toggle="pill" href="#pills-home" role="tab" aria-controls="pills-home" aria-selected="true">Nossa Segurança</a>
-                                </li>
+                                </li> -->
                                 <!-- <li class="nav-item">
                                     <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile" role="tab" aria-controls="pills-profile" aria-selected="false">Our Expertise</a>
                                 </li>
@@ -253,7 +253,7 @@
                             </ul>
                             <div class="tab-content" id="pills-tabContent">
                                 <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
-                                    <p>A Essencial Jus possui seguro de Erros e Omissões com a seguradora americana Berkley, através da corretora inglesa AON, e ainda promove o suporte na defesa administrativa e/ou judicial, caso exista alguma glosa dos créditos aprovados pela contratante e compensados pela Assertif. Vale destacar nosso conservadorismo e prudência, não tivemos nenhum caso de glosa até aqui.</p>
+                                    <p>EssencialJus através da Assertif possuem seguro de Erros e Omissões com a seguradora americana Berkley, através da corretora inglesa AON, e ainda promove o suporte na defesa administrativa e/ou judicial, caso exista alguma glosa dos créditos aprovados pela contratante e compensados pela Assertif. Vale destacar nosso conservadorismo e prudência, não tivemos nenhum caso de glosa até aqui.</p>
                                 </div>
                                 <!-- <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">
                                     <p>Ad pariatur nostrud pariatur exercitation ipsum ipsum culpa mollit commodo mollit ex. Aute sunt incididunt amet commodo est sint nisi deserunt pariatur do. Aliquip ex eiusmod voluptate exercitation cillum id incididunt elit sunt. Qui minim sit magna Lorem id et dolore velit Lorem amet exercitation duis deserunt. Anim id labore elit adipisicing ut in id occaecat pariatur ut ullamco ea tempor duis.</p>
@@ -279,7 +279,7 @@
                             </div>
                         </div>
                         <div class="col-md-6 offset-md-3 text-center">
-                            <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa.</p>
+                            <p>Atuamos dentro das normas da LGPD tanto no diagnóstico e mapeamento de atividades de tratamento de dados pessoais quanto na adequação às normas legais.</p>
                         </div>
                         <div class="spacer-single"></div>
                         <div class="col-md-4">
@@ -301,9 +301,6 @@
                         <div class="col-md-4">
                             <ul class="ul-style-2 wow fadeInRight" data-wow-delay=".6s">
                                 <li>Consultivo Trabalhista</li>
-                                <li>TAX Litigation</li>
-                                <li>LGPD BRASIL</li>
-                                <!-- <li>Criminal</li> -->
                             </ul>
                         </div>
                     </div>
@@ -313,7 +310,7 @@
                 <div class="container">
                     <div class="row" >
                         <div class="col-md-12 text-center">
-                            <h2 style="color: white">Nossa Equipe de Advogados</h2>
+                            <h2 style="color: white">Nossa Equipe</h2>
                             <div class="small-border"></div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
@@ -330,10 +327,9 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="images/background/t1.png" class="fp-image img-fluid" alt="">
                                 </div>
-                                <h4 style="color: white">Daniel Schmidt</h4>
-                                Sócio Administrador
+                                <h4 style="color: white">Josiane Schimiloski</h4>
+                                Sócia Administrador
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
@@ -370,12 +366,13 @@
                                         </div>
                                     </div>
                                     <div class="fpw-overlay-btm"></div>
-                                    <img src="images/background/t2.png"" class="fp-image img-fluid" alt="">
+                                    
                                 </div>
-                                <h4 style="color: white">Josiane Schimiloski</h4>
-                                Sócia Administrador
+                                <h4 style="color: white">Daniel Schmidt</h4>
+                                Sócio Administrador
                             </div>
                         </div>
+                        <img src="images/background/nossaequipe.jpg" class="fp-image img-fluid" alt="">
                     </div>
                 </div>
             </section>
@@ -384,7 +381,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="text-center">
-                                <h2>Latest News</h2>
+                                <h2>BLOG</h2>
                                 <div class="small-border"></div>
                             </div>
                         </div>
