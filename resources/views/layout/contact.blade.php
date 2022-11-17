@@ -89,6 +89,7 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
+                            <button type="button" class="btn btn-outline-secondary ">Solicite analisis</button>
                             <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span><i class="fa fa-phone"></i>(41)36187989</div>
                                 <span id="menu-btn"></span>
                             </div>
