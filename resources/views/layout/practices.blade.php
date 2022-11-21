@@ -107,8 +107,9 @@
                         <div class="row">
                             <div class="col text-center">
                                 <div class="spacer-single"></div>
-                                <h1>Practice Areas</h1>
-                                <p>Reputation. Respect. Result.</p>
+                                <h1>ÁREAS DE ATUAÇÃO</h1>
+                                <p>Reputação. Respeito. Resultado.</p>
+                                <h3 style="color:white;"> Atuamos dentro das normas da LGPD tanto no diagnóstico e mapeamento de atividades de tratamento de dados pessoais quanto na adequação às normas legais.</h3>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -120,69 +121,48 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5">
-                            <span class="p-title">Recuperação de Crédito Previdenciário</span><br>
+                            <span class="p-title">Como recuperar os valores pagos</span><br>
                             <h2>
                                 Como recuperar os valores pagos
                             </h2>
                             <p>
-                            Salário-maternidade, Aviso Prévio Indenizado, são verbas indenizatórias e não podem sofrer incidência de contribuição previdenciária. Regulada pela lei nº 8.212/1991, a contribuição previdenciária está na Constituição Federal e disciplina o pagamento de 20% sobre a folha de pagamento mensal de funcionários e avulsos. Nesse montante, além dos salários, estão incluídas as demais formas de pagamento regulares, como gorjetas, ganhos habituais e
-                            adiantamentos.
+                            Salário-maternidade, Aviso Prévio Indenizado, são verbas indenizatórias e não podem sofrer incidência de contribuição previdenciária. Regulada pela lei nº 8.212/1991, a contribuição previdenciária está na Constituição Federal e disciplina o pagamento de 20% sobre a folha de pagamento mensal de funcionários e avulsos. Nesse montante, além dos salários, estão incluídas as demais formas de pagamento regulares, como gorjetas, ganhos habituais e adiantamentos.
                             </p>
                             <p>
-                            Passíveis de recuperação são as verbas que não representam remuneração, mas sim que são indenizatórias. Na prática, significa todos aqueles pagamentos aos seus funcionários, mas que não estão relacionados ao trabalho que realizaram dentro do período analisado.
-                            Indenizatórios, portanto, são os pagamentos feitos a título de: salário maternidade,
-                            </p>
-                            <p>
+                            Passíveis de recuperação são as verbas que não representam remuneração, mas sim que são indenizatórias. Na prática, significa todos aqueles pagamentos aos seus funcionários, mas que não estão relacionados ao trabalho que realizaram dentro do período analisado. Indenizatórios, portanto, são os pagamentos feitos a título de: salário maternidade,
                             Aviso Prévio Indenizado, entre outras. Esses valores não são considerados salários e, assim, não devem sofrer incidência da contribuição previdenciária.
                             </p>
-                            <p>
-                            <strong>As vantagens de recuperar o Crédito Previdenciário</strong>
-                            Um dos maiores sócios de qualquer negócio é o governo. Desse modo, reduzir a tributação de maneira legal é uma das principais estratégias de competitividade das empresas. Confira as vantagens de obter de volta os créditos do INSS.
-                            </p>
-                            <p>
-                            A recuperação de crédito do INSS possibilita reduzir os custos envolvendo o pagamento de tributos e, assim, melhorar a saúde financeira do negócio. Possibilita também reduzir os tributos que incidem sobre a folha de pagamento e oferecer mais benefícios e vantagens aos funcionários. Possibilita ainda que as áreas de RH e contábil das organizações fiquem de acordo com a legislação vigente e atentas às modificações e novos entendimentos
-                            </p>
+                            <a href="{{ asset('pdf/EbookRecuperacoesFiscais_EssencialJus_.pdf') }}"  target="_blank" class="btn-custom btn-sm capsule">Baixe o Ebook</a>
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/.png) center"></div>
+                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/destaque1.png) center"></div>
             </section>
             <section data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5 offset-md-7">
-                            <span class="p-title">Recuperação de Crédito Fiscal</span><br>
+                            <span class="p-title">Como recuperar os valores pagos</span><br>
+                            <h2>
+                                RECUPERAÇÃO DE CRÉDITO FISCAL
+                            </h2>
+                            <p>
+                                Trata-se de uma metodologia fundamental para as empresas recuperarem créditos de tributos recolhidos a maior ou indevidamente.
+                                A revisão fiscal é uma análise dos procedimentos adotados pelas áreas fiscais e tributárias das empresas, com o objetivo de mapear situações que possam ser corrigidas ou aprimoradas. Trata-se de um diagnóstico completo, fundamental para traçar o panorama fiscal. 
+                            <p>
+                                A metodologia pode ser decisiva para que a empresa recupere valores recolhidos de maneira indevida, preservando o seu fluxo de caixa.
+                                A análise é usada também nos casos de fusão e aquisição de empresas, em que potenciais compradores buscam respostas sobre os riscos de novos negócios. Assim, uma revisão fiscal é sempre recomendada em processos de due diligence. Afinal, os dados levantados na revisão devem ser considerados na avaliação de viabilidade de um contrato.
+                            </p>
                             
                             <p>
-                            Trata-se de uma metodologia fundamental para as empresas recuperarem créditos de tributos recolhidos a maior ou indevidamente.
+                                A metodologia pode ser decisiva para que a empresa recupere valores recolhidos de maneira indevida, preservando o seu fluxo de caixa.
+                                A análise é usada também nos casos de fusão e aquisição de empresas, em que potenciais compradores buscam respostas sobre os riscos de novos negócios. Assim, uma revisão fiscal é sempre recomendada em processos de due diligence. Afinal, os dados levantados na revisão devem ser considerados na avaliação de viabilidade de um contrato.
                             </p>
-                            <p>
-                            A revisão fiscal é uma análise dos procedimentos adotados pelas áreas fiscais e tributárias das empresas, com o objetivo de mapear situações que possam ser corrigidas ou aprimoradas. Trata-se de um diagnóstico completo, fundamental para traçar o
-                            panorama fiscal. A metodologia pode ser decisiva para que a empresa recupere valores recolhidos de maneira indevida, preservando o seu fluxo de caixa.
-                            </p>
-                            <p>
-                            A análise é usada também nos casos de fusão e aquisição de empresas, em que potenciais compradores buscam respostas sobre os riscos de novos negócios. Assim, uma revisão fiscal é sempre recomendada em processos de due diligence. Afinal, os dados levantados na revisão devem ser considerados na avaliação de viabilidade de um contrato.
-                            </p>
-                            <p>
-                            Como funciona a Recuperação de Créditos Fiscais?
-                            O serviço destina-se a empresas optantes pelo Lucro Real, Presumido e Simples Nacional.
-                            </p>
-                            <p>
-                            Para todas empresas optantes, recomenda-se a Revisão de Tributos Federais dos últimos cinco anos.
-                            </p>
-                            <p>
-                            Esse serviço analisa tributos como: Imposto de Renda Pessoa Jurídica (IRPJ); Contribuição Social sobre o Lucro Líquido (CSLL); Programa de Integração Social (PIS); Contribuição para o Financiamento da Seguridade Social (COFINS); Imposto sobre Produtos Industrializados (IPI).
-                            </p>
-                            <p>
-                            Nele também, são oferecidas soluções tributárias para operações envolvendo o IPI e ICMS otimizando a carga tributária incidente sobre a compra e venda de produtos.
-                            </p>
-                            <p>
-                            É bom saber que esses serviços devem ser feitos periodicamente porque a legislação fiscal é alterada constantemente.
-                            </p>
+                            <a href="{{ asset('pdf/Ebook_CreditosPrevidenciarios_.pdf') }}"  target="_blank" class="btn-custom capsule">Baixe o Ebook</a>
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6" data-bgimage="url(images/background/.png) center"></div>
+                <div class="image-container col-md-6" data-bgimage="url(images/background/destaque2.png) center"></div>
             </section>
             <section data-bgcolor="#0c2022" class="text-light">
                 <div class="container">
@@ -196,10 +176,11 @@
                             <strong>Por que o depósito recursal é pago?</strong>
                             Quando uma empresa deseja recorrer de uma sentença desfavorável em um processo trabalhista é obrigada a efetuar judicialmente o depósito recursal que é considerado uma garantia de pagamento ao trabalhador, quando ganha a causa.
                             </p>
+                            <a href="{{ asset('pdf/EbookDepositosRecursaisEssencialJus.pdf') }}"  target="_blank" class="btn-custom capsule">Baixe o Ebook</a>
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/.png) center"></div>
+                <div class="image-container col-md-6 pos-right" data-bgimage="url(images/background/destaque3.png) center"></div>
             </section>
         </div>
         <!-- content close -->
@@ -207,10 +188,10 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-8 mb-sm-30 text-lg-left text-sm-center">
-                        <h3 class="no-bottom">Now! Get a Free Consultation for Your Case.</h3>
+                        <h3 class="no-bottom">Fale conosco agora mesmo e tire todas as suas dúvidas..</h3>
                     </div>
                     <div class="col-md-4 text-lg-right text-sm-center">
-                        <a href="#" class="btn-custom btn-black light">Make Appointment</a>
+                        <a href="#" class="btn-custom btn-black light">SOLICITE UMA ANÁLISE SEM CUSTO</a>
                     </div>
                 </div>
             </div>
