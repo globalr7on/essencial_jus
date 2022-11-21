@@ -35,9 +35,9 @@
             <div class="container">
                 <div class="topbar-left sm-hide">
                     <span class="topbar-widget tb-social">
-                        <a href="#"><i class="fa fa-facebook"></i></a>
-                        <a href="#"><i class="fa fa-linkedin"></i></a>
-                        <a href="#"><i class="fa fa-instagram"></i></a>
+                        <a href="https://www.facebook.com/profile.php?id=100087669453621"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.linkedin.com/company/essencial-jus/"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/essencialjus"><i class="fa fa-instagram"></i></a>
                     </span>
                 </div>
                 <div class="topbar-right">
@@ -219,7 +219,7 @@
                         </div>
                         <div class="col-md-4 wow fadeInRight" data-wow-delay=".6s">
                             <div class="mask">
-                                <div class="cover" style="color:#f5c88e;">
+                                <div class="cover">
                                     <div class="c-inner" >
                                         <h3 style="color:#0c2022 !important;">Ebook Recuperação de Depósitos Recursais</h3>
                                         <p>Depósitos recursais são os valores que as empresas precisam disponibilizar junto à Justiça do Trabalho para recorrer nas ações trabalhistas.</p>
