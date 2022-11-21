@@ -92,7 +92,7 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
-                            <button type="button" class="btn btn-outline-secondary ">Solicite analisis</button>
+                            <button type="button" class="btn btn-outline-secondary btn-sm">SOLICITE UMA ANALISE SEM CUSTO</button>
                             <div class="h-phone md-hide"><span>Precisa &nbsp;de auxilio?</span><i class="fa fa-phone"></i>(41)36187989</div>
                                 <span id="menu-btn"></span>
                             </div>
