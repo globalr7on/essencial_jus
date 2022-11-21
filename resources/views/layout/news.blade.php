@@ -123,18 +123,18 @@
                         <div class="col-lg-4 col-md-6 mb30">
                             <div class="bloglist item">
                                 <div class="post-content">
-                                    <div class="date-box">
+                                    <!-- <div class="date-box">
                                         <div class="m">10</div>
                                         <div class="d">NOV</div>
-                                    </div>
+                                    </div> -->
                                     <div class="post-image">
-                                        <img alt="" src="images/news/1.jpg">
+                                        <img alt="" src="images/news/prancheta7.png">
                                     </div>
                                     <div class="post-text">
-                                        <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">The Lawyer European Awards shortlist<span></span></a></h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        <span class="p-author">Fynley Wilkinson</span>
+                                        <!-- <span class="p-tagline">Law Firm</span> -->
+                                        <h4><a href="news-single.html">SEU NEGÓCIO COM A ESSENCIAL JUS AINDA MAIS SEGURO<span></span></a></h4>
+                                        <p>Fechamos contrato com uma das corretoras de seguro mais importantes do mundo: a Aon. Dentre as seguradoras apresentadas, optamos pela Argo, seguradora internacional líder em coberturas especializadas.</p>
+                                        <!-- <span class="p-author">Fynley Wilkinson</span> -->
                                     </div>
                                 </div>
                             </div>
@@ -142,18 +142,18 @@
                         <div class="col-lg-4 col-md-6 mb30">
                             <div class="bloglist item">
                                 <div class="post-content">
-                                    <div class="date-box">
+                                    <!-- <div class="date-box">
                                         <div class="m">15</div>
                                         <div class="d">NOV</div>
-                                    </div>
+                                    </div> -->
                                     <div class="post-image">
-                                        <img alt="" src="images/news/2.jpg">
+                                        <img alt="" src="images/news/prancheta8.png">
                                     </div>
                                     <div class="post-text">
-                                        <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">Six firms that are setting the trend<span></span></a></h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        <span class="p-author">Fynley Wilkinson</span>
+                                        <!-- <span class="p-tagline">Law Firm</span> -->
+                                        <h4><a href="news-single.html">COMO A PANDEMIA DE COVID-19 MUDOU AS VENDAS B2B PARA SEMPRE<span></span></a></h4>
+                                        <p>A pandemia de COVID-19 transformou muitos cenários, e com as vendas B2B não foi diferente. A situação mundial forçou compradores e vendedores a ultrapassarem barreiras e se tornarem digitais.Definitivamente, o digital é o presente e futuro.</p>
+                                        <!-- <span class="p-author">Fynley Wilkinson</span> -->
                                     </div>
                                 </div>
                             </div>
@@ -161,18 +161,18 @@
                         <div class="col-lg-4 col-md-6 mb30">
                             <div class="bloglist item">
                                 <div class="post-content">
-                                    <div class="date-box">
+                                    <!-- <div class="date-box">
                                         <div class="m">20</div>
                                         <div class="d">NOV</div>
-                                    </div>
+                                    </div> -->
                                     <div class="post-image">
-                                        <img alt="" src="images/news/3.jpg">
+                                        <img alt="" src="images/news/prancheta9.png">
                                     </div>
                                     <div class="post-text">
-                                        <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">When it comes to law firm mergers<span></span></a></h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        <span class="p-author">Fynley Wilkinson</span>
+                                        <!-- <span class="p-tagline">Law Firm</span> -->
+                                        <h4><a href="news-single.html">Empresas recuperam R$ 63 bilhões em tributos por meio de ações judiciais em 2020<span></span></a></h4>
+                                        <p>Oportunidade surgiu com decisão do STF de excluir o ICMS da base de cálculo do PIS/COFINS; assunto voltará a ser discutido pela corte agora em abril.</p>
+                                        <!-- <span class="p-author">Fynley Wilkinson</span> -->
                                     </div>
                                 </div>
                             </div>
