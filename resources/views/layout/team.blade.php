@@ -75,7 +75,6 @@
                                         <ul>
                                             <li><a href="/sobre_nos">Sobre</a></li>
                                             <li><a href="/equipe">Equipe</a></li>
-                                            <li><a href="/faq">FAQ</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="/areas">Área de Atuação </a>
@@ -125,7 +124,11 @@
                             <h2>
                                 Daniel Schmidt
                             </h2>
-                            <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa eiusmod id nostrud sit cupidatat in veniam ad. Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
+                            <p>Daniel Schmidt, pai da Sara, Bacharel em Direito pela Univesidade Uniandrade de Curitia , atua a mais de 15 anos na área tributária, especialista em restituições e análise de risco financeiro, e como aspecto importante em qualquer organização faço 4 perguntas:</p>
+                            <li> Será que você está pagando os impostos corretos?</li>
+                            <li>Manter as contas a pagar e a receber em dia é um desafio?</li>
+                            <li>Você sente incerteza em relação ao cenário atual do mercado?</li>
+                            <li>Gostaria de ter mais dinheiro em caixa e mais segurança na tomada de decisões?</li>
                         </div>
                     </div>
                 </div>
@@ -139,7 +142,7 @@
                             <h2>
                                 Josiane Schimiloski
                             </h2>
-                            <p>Consequat occaecat ullamco amet non eiusmod nostrud dolore irure incididunt est duis anim sunt officia. Fugiat velit proident aliquip nisi incididunt nostrud exercitation proident est nisi. Irure magna elit commodo anim ex veniam culpa eiusmod id nostrud sit cupidatat in veniam ad. Eiusmod consequat eu adipisicing minim anim aliquip cupidatat culpa excepteur quis. Occaecat sit eu exercitation irure Lorem incididunt nostrud.</p>
+                            <p>Mãe da Sara apaixonada pela área tributaria, especialista em LGPD, correspondente Bancaria, bacharel  em Radiologia tem como frase: Escolha a melhor forma de tributação para sua empresa, e saia na frente dos seus concorrentes. A complexidade da legislação brasileira pode custar a sua tranquilidade e a sustentabilidade do seu negócio. Por isso estamos a sua disposição Essencial Jus. </p>
                         </div>
                     </div>
                 </div>

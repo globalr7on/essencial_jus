@@ -77,7 +77,6 @@
                                         <ul>
                                             <li><a href="/sobre_nos">Sobre</a></li>
                                             <li><a href="/equipe">Equipe</a></li>
-                                            <li><a href="/faq">FAQ</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="/areas">Área de Atuação </a>
