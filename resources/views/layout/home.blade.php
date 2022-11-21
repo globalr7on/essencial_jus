@@ -194,7 +194,8 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><span>Ebook Recuperação de Créditos Fiscais</span></h3>
+                                    
+                                        <h3 style="color:#0c2022">Ebook Recuperação de Créditos Fiscais</h3>
                                         <p>Solução aplicável às empresas tributadas pelo Lucro Real e Lucro Presumido.</p>
                                         <div class="spacer20"></div>
                                         <a href="{{ asset('pdf/EbookRecuperacoesFiscais_EssencialJus_.pdf') }}"  target="_blank" class="btn-custom capsule">Download</a>
@@ -207,7 +208,7 @@
                             <div class="mask">
                                 <div class="cover">
                                     <div class="c-inner">
-                                        <h3><span>Ebook Recuperação de Créditos Previdenciários</span></h3>
+                                        <h3 style="color:#0c2022">Ebook Recuperação de Créditos Previdenciários</h3>
                                         <p>Temos assertividade e tecnologia mining tech para minerar, identificar, analisar e recuperar, com segurança e rapidez</p>
                                         <div class="spacer20"></div>
                                         <a href="{{ asset('pdf/Ebook_CreditosPrevidenciarios_.pdf') }}"  target="_blank" class="btn-custom capsule">Download</a>
@@ -218,9 +219,9 @@
                         </div>
                         <div class="col-md-4 wow fadeInRight" data-wow-delay=".6s">
                             <div class="mask">
-                                <div class="cover">
-                                    <div class="c-inner">
-                                        <h3><span>Ebook Recuperação de Depósitos Recursais</span></h3>
+                                <div class="cover" style="color:#f5c88e;">
+                                    <div class="c-inner" >
+                                        <h3 style="color:#0c2022 !important;">Ebook Recuperação de Depósitos Recursais</h3>
                                         <p>Depósitos recursais são os valores que as empresas precisam disponibilizar junto à Justiça do Trabalho para recorrer nas ações trabalhistas.</p>
                                         <div class="spacer20"></div>
                                         <a href="{{ asset('pdf/EbookDepositosRecursaisEssencialJus.pdf') }}"  target="_blank" class="btn-custom capsule">Download</a>
