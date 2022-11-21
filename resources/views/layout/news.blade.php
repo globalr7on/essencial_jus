@@ -154,6 +154,34 @@
                                         <h4><a href="news-single.html">COMO A PANDEMIA DE COVID-19 MUDOU AS VENDAS B2B PARA SEMPRE<span></span></a></h4>
                                         <p>A pandemia de COVID-19 transformou muitos cenários, e com as vendas B2B não foi diferente. A situação mundial forçou compradores e vendedores a ultrapassarem barreiras e se tornarem digitais.Definitivamente, o digital é o presente e futuro.</p>
                                         <!-- <span class="p-author">Fynley Wilkinson</span> -->
+                                         <!-- Button trigger modal -->
+                                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+                                        ver mais
+                                        </button>   
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Modal 1 -->
+                        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLongTitle">COMO A PANDEMIA DE COVID-19 MUDOU AS VENDAS B2B PARA SEMPRE</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                    <div class="modal-body">
+                                    <div class="post-image">
+                                        <img alt="" src="images/news/prancheta8.png">
+                                    </div>
+                                    <p> Pesquisa recente da McKinsey sobre o comportamento dos tomadores de decisão em todos os setores revela que a grande mudança digital veio para ficar.
+                                    Dentre os principais resultados:</p>
+                                    <li> - Entre 70% a 80% dos tomadores de decisão B2B preferem o autosserviço digital e envolvimento humano remoto em interações face a face;</li>
+                                    <li> – 70% dizem estar mais abertos e seguros para realizarem novas compras totalmente self-service ou online acima de $ 50 mil;</li>
+                                    <li> – 27% fariam compras acima de $ 500 mil;</li>
+                                    <li> – Dentre os entrevistados de 11 países, 77% dos brasileiros acreditam na eficiência do crescimento digital.</li>
                                     </div>
                                 </div>
                             </div>
