@@ -130,7 +130,6 @@
                         </div>
                         <div class="col-md-6 offset-md-1">
                             <div class="de-images">
-                                <img class="di-small-2" src="images/misc/d2.jpeg" alt="" />
                                 <img class="di-big img-fluid" src="images/misc/d1_1.jpg" alt="" />
                             </div>
                         </div>
