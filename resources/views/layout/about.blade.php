@@ -129,7 +129,7 @@
                             </p>
                         </div>
                         <div class="col-md-6 offset-md-1">
-                            <div class="de-images">
+                            <div class="de-images"> 
                                 <img class="di-big img-fluid" src="images/misc/d1_1.jpg" alt="" />
                             </div>
                         </div>
@@ -180,7 +180,7 @@
                             <h2 style="color: white">Nossa Equipe</h2>
                             <div class="small-border"></div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
+                        <!-- <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
                             <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
                                     <div class="fpw-overlay">
@@ -198,7 +198,7 @@
                                 <h4 style="color: white">Josiane Schimiloski</h4>
                                 Sócia Administrador
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
                             <!-- <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
@@ -219,7 +219,7 @@
                                 Senior Partner
                             </div> -->
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
+                        <!-- <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
                             <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
                                     <div class="fpw-overlay">
@@ -238,8 +238,8 @@
                                 <h4 style="color: white">Daniel Schmidt</h4>
                                 Sócio Administrador
                             </div>
-                        </div>
-                        <img src="images/background/nossaequipe.jpg" class="fp-image img-fluid" alt="">
+                        </div> -->
+                        <img src="images/background/nossaequipe.png" class="fp-image img-fluid" alt="">
                     </div>
                 </div>
             </section>
