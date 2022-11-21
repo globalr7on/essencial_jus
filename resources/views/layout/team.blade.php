@@ -143,7 +143,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="image-container col-md-6" data-bgimage="url(images/background/t2.png) center"></div>
+                <div class="image-container col-md-6" data-bgimage="url(images/background/t4.png) center"></div>
             </section>
         </div>
         <!-- content close -->
