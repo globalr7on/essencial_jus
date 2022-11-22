@@ -329,7 +329,7 @@
 
         // let marker = L.marker([-25.4573122, -49.2987814]).addTo(map)
 
-        var marker = L.marker([--25.4665768,-49.2941348],
+        var marker = L.marker([-25.4665768,-49.2941348],
             {alt: 'jus'}).addTo(map) // "Kyiv" is the accessible name of this marker
             .bindPopup('<strong>Escritorio Curitiba:</strong> Essencial Jus');
     </script>
