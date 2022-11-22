@@ -175,7 +175,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2 mb-sm-30 text-center">
-                            <h3>Você tem alguma pergunta?</h3>
+                            <h3>Solicite um anallise sem custo</h3>
                             <form name="contactForm" id="contact_form" class="form-border" method="post" action="{{ route('contact.send') }}">
                                 <div class="field-set">
                                     <input type="text" name="name" id="name" class="form-control" placeholder="Seu Nome" />
