@@ -1174,7 +1174,7 @@ header.header-mobile .logo-2 {
 }
 
 header.header-mobile.header-light {
-    background: #fff;
+    background: rgb(12 32 34) !important;
 }
 
 header.header-mobile #mainmenu ul {
@@ -1182,7 +1182,7 @@ header.header-mobile #mainmenu ul {
 }
 
 header.header-solid.header-light {
-    background: #fff;
+    background: rgb(12 32 34) !important;;
 }
 
 header.header-light .logo {
@@ -12870,7 +12870,7 @@ img {
     }
 
     header.header-mobile #mainmenu li ul.mega .menu-content {
-        background: #fff;
+        background: rgb(12 32 34) !important;;
     }
 
     header.header-light.header-mobile #mainmenu li,
