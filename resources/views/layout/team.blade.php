@@ -29,6 +29,27 @@
     <link href="css/coloring.css" rel="stylesheet" type="text/css">
 </head>
 
+<style>
+    /* On screens that are 992px wide or less, go from four columns to two columns */
+    @media  (max-width: 2180px)  {
+        .mostrar1{
+            display: none;
+        }
+    }
+
+    /* On screens that are 600px wide or less, make the columns stack on top of each other instead of next to each other */
+    @media  (max-width: 566px) {
+        .mostrar2 {
+            display: none;
+        }
+        .mostrar1{
+            display: block;
+            margin-right: auto;
+        }
+    }
+
+</style>
+
 <body>
     <div id="wrapper">
         <div id="topbar" class="text-white bg-color">
@@ -66,7 +87,7 @@
                                 </div>
                                 <!-- logo close -->
                             </div>
-                            <div class="de-flex-col header-col-mid">
+                            <div class="de-flex-col flex flex-column flex-row@xs gap-xs header-col-mid">
                                 <!-- mainmenu begin -->
                                 <ul id="mainmenu">
                                     <li><a href="/">Home</a>    
@@ -83,10 +104,10 @@
                                     </li>
                                     <li><a href="/contato">Contato</a></li>
                                 </ul>
-                                <!-- mainmenu close -->
+                                <a class="btn btn-primary btn-sm mostrar1" href="/contato" role="button">SOLICITE UMA ANALISE SEM CUSTO</a>
                             </div>
                             <div class="de-flex-col">
-                            <a class="btn btn-primary btn-sm" href="/contato" role="button">SOLICITE UMA ANALISE SEM CUSTO</a>
+                                <a class="btn btn-primary btn-sm mostrar2" href="/contato" role="button">SOLICITE UMA ANALISE SEM CUSTO</a>
                             <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span>(41)36187989</div>
                                 <span id="menu-btn"></span>
                             </div>
@@ -124,7 +145,7 @@
                             <h2>
                                 Daniel Schmidt
                             </h2>
-                            <p>Daniel Schmidt, pai da Sara, Bacharel em Direito pela Univesidade Uniandrade de Curitia , atua a mais de 15 anos na área tributária, especialista em restituições e análise de risco financeiro, e como aspecto importante em qualquer organização faço 4 perguntas:</p>
+                            <p>Daniel Schmidt, Pai da Sara, Bacharel em Direito pela Univesidade Uniandrade de Curitiba , atua a mais de 15 anos na área tributária, especialista em restituições e análise de risco financeiro, e como aspecto importante em qualquer organização faço 4 perguntas:</p>
                             <li> Será que você está pagando os impostos corretos?</li>
                             <li>Manter as contas a pagar e a receber em dia é um desafio?</li>
                             <li>Você sente incerteza em relação ao cenário atual do mercado?</li>
