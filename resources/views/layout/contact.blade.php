@@ -27,6 +27,9 @@
     <!-- color scheme -->
     <link id="colors" href="css/colors/scheme-01.css" rel="stylesheet" type="text/css">
     <link href="css/coloring.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
+     integrity="sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI="
+     crossorigin=""/>
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/11.6.7/sweetalert2.min.css">
 </head>
@@ -108,8 +111,9 @@
                     <div class="container">
                         <div class="row">
                             <div class="col-md-12 text-center">
-                                <h1>Contate-nós</h1>
+                                <h1>Contate-nos</h1>
                                 <p>Reputação. Respeito. Resultado.</p>
+                                <h3 style="color:white">Entre em contato conosco e tire suas dúvidas sobre a Essencial Jus</h3>
                             </div>
                             <div class="clearfix"></div>
                         </div>
@@ -120,27 +124,21 @@
             <section aria-label="section">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4">
-                            <!-- <img src="images/misc/p1.jpg" alt="" class="img-fluid mb30">
-                            <h3>US Office</h3>
-                            <address class="s1">
-                                <span><i class="id-color fa fa-map-marker fa-lg"></i>08 W 36th St, New York, NY 10001</span>
-                                <span><i class="id-color fa fa-phone fa-lg"></i>+1 333 9296</span>
-                                <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contact@example.com</a></span>
-                                <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span>
-                            </address> -->
-                        </div>
-                        <div class="col-md-4">
-                            <img src="images/misc/p2.jpg" alt="" class="img-fluid mb30">
-                            <h3>Escritorio Curitiba</h3>
+                        <div class="col-md-6">
+                            <img src="images/misc/d1_1.jpg" alt="" class="img-fluid mb30">
+                            <h3>Escritório Curitiba</h3>
                             <address class="s1">
                                 <span><i class="id-color fa fa-map-marker fa-lg"></i>Av. República Argentina, 2275 – SALA 1205- Água Verde</span>
                                 <span><i class="id-color fa fa-phone fa-lg"></i>+55(041)3618-7989</span>
                                 <span><i class="id-color fa fa-envelope-o fa-lg"></i><a href="mailto:contact@example.com">contato@essencialjus.com</a></span>
                                 <!-- <span><i class="id-color fa fa-file-pdf-o fa-lg"></i><a href="#">Download Brochure</a></span> -->
                             </address>
+                           
                         </div>
-                        <div class="col-md-4">
+                        <div class="col-md-6">
+                        <div id="map" class="map-responsive"></div>
+                        
+                        
                             <!-- <img src="images/misc/p3.jpg" alt="" class="img-fluid mb30">
                             <h3>AU Office</h3>
                             <address class="s1">
@@ -324,6 +322,10 @@
     <script src="js/jquery.countdown.js"></script>
     <script src="js/designesia.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <!-- Make sure you put this AFTER Leaflet's CSS -->
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"
+     integrity="sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM="
+     crossorigin=""></script>
     <script>
     $('body').on('click', '#salvar', function() {
         Swal.fire(
@@ -331,6 +333,16 @@
           'success'
         )
     })
+    </script>
+    <script>
+       var map = L.map('map').setView([-25.4573122, -49.2987814], 13);
+
+       L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+        }).addTo(map);
+
+        
     </script>
 </body>
 
