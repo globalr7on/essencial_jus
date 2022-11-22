@@ -108,7 +108,7 @@
                             </div>
                             <div class="de-flex-col">
                                 <a class="btn btn-primary btn-sm mostrar2" href="/contato" role="button">SOLICITE UMA ANALISE SEM CUSTO</a>
-                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span>(41)36187989</div>
+                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span>(41) 3618-7989</div>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>
