@@ -107,7 +107,7 @@
                         <div class="row">
                             <div class="col text-center">
                                 <div class="spacer-single"></div>
-                                <h1>ÁREAS DE ATUAÇÃO</h1>
+                                <h1>Áreas de Atuação</h1>
                                 <p>Reputação. Respeito. Resultado.</p>
                                 <h3 style="color:white;"> Atuamos dentro das normas da LGPD tanto no diagnóstico e mapeamento de atividades de tratamento de dados pessoais quanto na adequação às normas legais.</h3>
                             </div>
