@@ -183,28 +183,6 @@
                     </div>
                 </div>
             </section>
-            <section class="jarallax text-light">
-                <img src="images/background/2.jpg" class="jarallax-img" alt="">
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-lg-4 col-md-12 wow fadeInRight" data-wow-delay=".2s">
-                            <div class="de_count ultra-big s2 border-light text-center">
-                                <h3 class="timer" data-to="20" data-speed="1000">20</h3>
-                                <span class="id-color">Years of Experience</span>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 p-lg-5  mb-sm-30 wow fadeInRight" data-wow-delay=".4s">
-                            <span class="p-title">About Us</span><br>
-                            <h2>Justica is Your Best Partner for Legal Solutions</h2>
-                        </div>
-                        <div class="col-lg-4 wow fadeInRight" data-wow-delay=".6s">
-                            <p>
-                                At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
         </div>
         <!-- content close -->
         <a href="#" id="back-to-top"></a>
