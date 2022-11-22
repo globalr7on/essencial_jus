@@ -46,6 +46,13 @@
             display: block;
             margin-right: auto;
         }
+        /* .header-background {
+            background-color: rgb(12, 32, 34);
+            /* position: fixed; */
+            /* left: 0;
+            bottom: 0;
+            width: 100%;
+        } */
     }
 
 </style>
@@ -77,11 +84,11 @@
             </div>
         </div>
         <!-- header begin -->
-        <header class="transparent">
-            <div class="container">
+        <header class="transparent ">
+            <div class="container header-background">
                 <div class="row">
-                    <div class="col-md-12">
-                        <div class="de-flex sm-pt10">
+                    <div class="col-md-12 ">
+                        <div class="de-flex sm-pt10 ">
                             <div class="de-flex-col">
                                 <!-- logo begin -->
                                 <div id="logo">
