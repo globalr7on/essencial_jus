@@ -86,7 +86,7 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
-                            <button type="button" class="btn btn-primary btn-sm">SOLICITE UMA ANALISE SEM CUSTO</button>
+                            <button type="button" class="btn btn-primary btn-sm"  href="/contato">SOLICITE UMA ANALISE SEM CUSTO</button>
                             <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span></i>(41)36187989</div>
                                 <span id="menu-btn"></span>
                             </div>
@@ -192,7 +192,7 @@
                         <h3 class="no-bottom">Fale conosco agora mesmo e tire todas as suas dúvidas..</h3>
                     </div>
                     <div class="col-md-4 text-lg-right text-sm-center">
-                        <a href="#" class="btn-custom btn-black light">SOLICITE UMA ANÁLISE SEM CUSTO</a>
+                        <a  href="/contato" class="btn-custom btn-black light">SOLICITE UMA ANÁLISE SEM CUSTO</a>
                     </div>
                 </div>
             </div>
