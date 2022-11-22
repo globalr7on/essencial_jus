@@ -86,7 +86,7 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
-                            <button type="button" class="btn btn-primary btn-sm"  href="/contato">SOLICITE UMA ANALISE SEM CUSTO</button>
+                            <a class="btn btn-primary btn-sm" href="/contato" role="button">SOLICITE UMA ANALISE SEM CUSTO</a>
                             <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span>(41)36187989</div>
                                 <span id="menu-btn"></span>
                             </div>
