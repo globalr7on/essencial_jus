@@ -313,7 +313,7 @@
     })
     </script>
     <script>
-       var map = L.map('map').setView([-25.4573122, -49.2987814], 13);
+       var map = L.map('map').setView([-25.4665768,-49.2941348], 13);
 
        googleStreets = L.tileLayer('http://{s}.google.com/vt?lyrs=m&x={x}&y={y}&z={z}',{
             maxZoom: 20,
@@ -329,7 +329,7 @@
 
         // let marker = L.marker([-25.4573122, -49.2987814]).addTo(map)
 
-        var marker = L.marker([-25.4573122, -49.2987814],
+        var marker = L.marker([--25.4665768,-49.2941348],
             {alt: 'jus'}).addTo(map) // "Kyiv" is the accessible name of this marker
             .bindPopup('<strong>Escritorio Curitiba:</strong> Essencial Jus');
     </script>
