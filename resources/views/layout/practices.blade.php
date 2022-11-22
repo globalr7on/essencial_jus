@@ -86,8 +86,8 @@
                                 <!-- mainmenu close -->
                             </div>
                             <div class="de-flex-col">
-                            <button type="button" class="btn btn-outline-secondary btn-sm">SOLICITE UMA ANALISE SEM CUSTO</button>
-                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span><i class="fa fa-phone"></i>(41)36187989</div>
+                            <button type="button" class="btn btn-primary btn-sm">SOLICITE UMA ANALISE SEM CUSTO</button>
+                            <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span></i>(41)36187989</div>
                                 <span id="menu-btn"></span>
                             </div>
                         </div>
@@ -123,7 +123,7 @@
                         <div class="col-lg-5">
                             <span class="p-title">Como recuperar os valores pagos</span><br>
                             <h2>
-                                Como recuperar os valores pagos
+                                RECUPERAÇÃO DE CRÉDITOS PREVIDENCIÁRIOS
                             </h2>
                             <p>
                             Salário-maternidade, Aviso Prévio Indenizado, são verbas indenizatórias e não podem sofrer incidência de contribuição previdenciária. Regulada pela lei nº 8.212/1991, a contribuição previdenciária está na Constituição Federal e disciplina o pagamento de 20% sobre a folha de pagamento mensal de funcionários e avulsos. Nesse montante, além dos salários, estão incluídas as demais formas de pagamento regulares, como gorjetas, ganhos habituais e adiantamentos.
@@ -168,7 +168,8 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-5">
-                            <span class="p-title">Depósitos Recursais</span><br>
+                            <!-- <span class="p-title">Depósitos Recursais</span><br> -->
+                            <h2>DEPOSITOS RECURSAIS</h2>
                             <p>
                                 A nossa metodologia é composta de inteligência artificial e profissionais altamente qualificados, gerando oportunidades de valores expressivos para o seu negócio.
                             </p>
