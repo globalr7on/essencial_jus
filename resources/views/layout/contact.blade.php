@@ -104,14 +104,14 @@
                                     </li>
                                     <li><a href="/areas">Área de Atuação </a>
                                     </li>
-                                    <li><a href="/blog">blog</a>
+                                    <li><a href="/blog">Blog</a>
                                     </li>
                                     <li><a href="/contato">Contato</a></li>
                                 </ul>
-                                <a class="btn btn-primary btn-sm mostrar1" href="/contato" role="button">SOLICITE UMA ANALISE SEM CUSTO</a>
+                                <a class="btn btn-primary btn-sm mostrar1" href="/contato" role="button">ANALISE SEM CUSTO</a>
                             </div>
                             <div class="de-flex-col">
-                                <a class="btn btn-primary btn-sm mostrar2" href="/contato" role="button">SOLICITE UMA ANALISE SEM CUSTO</a>
+                                <a class="btn btn-primary btn-sm mostrar2" href="/contato" role="button">ANALISE SEM CUSTO</a>
                             <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span>(41) 3618-7989</div>
                                 <span id="menu-btn"></span>
                             </div>
