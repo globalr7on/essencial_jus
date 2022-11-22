@@ -386,65 +386,219 @@
                             </div>
                         </div>
                     </div>
+                    <section aria-label="section">
+                <div class="container">
                     <div class="row">
-                        <div class="col-lg-4 col-md-6">
+                        <div class="col-lg-4 col-md-6 mb30">
                             <div class="bloglist item">
                                 <div class="post-content">
-                                    <div class="date-box">
+                                    <!-- <div class="date-box">
                                         <div class="m">10</div>
                                         <div class="d">NOV</div>
-                                    </div>
+                                    </div> -->
                                     <div class="post-image">
-                                        <img alt="" src="images/news/1.jpg">
+                                        <img alt="" src="images/news/prancheta7.png">
                                     </div>
                                     <div class="post-text">
-                                        <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">The Lawyer European Awards shortlist<span></span></a></h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        <span class="p-author">Fynley Wilkinson</span>
+                                        <!-- <span class="p-tagline">Law Firm</span> -->
+                                        <h4><a href="news-single.html">SEU NEGÓCIO COM A ESSENCIAL JUS AINDA MAIS SEGURO<span></span></a></h4>
+                                        <p>Fechamos contrato com uma das corretoras de seguro mais importantes do mundo: a Aon. Dentre as seguradoras apresentadas, optamos pela Argo, seguradora internacional líder em coberturas especializadas.</p>
+                                        <!-- <span class="p-author">Fynley Wilkinson</span> -->
+                                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalRight">
+                                        ver mais
+                                        </button>   
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                         <!-- Modal 1 -->
+                         <div class="modal fade" id="exampleModalRight" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLongTitle">SEU NEGÓCIO COM A ESSENCIAL JUS AINDA MAIS SEGURO</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                    <div class="modal-body">
+                                    <div class="post-image">
+                                        <img alt="" src="images/news/prancheta7.png">
+                                    </div>
+                                    <p> Não medimos esforços para proporcionar um trabalho cada vez mais seguro e assertivo. E, sem dúvida, a segurança dos nossos clientes e de todos os envolvidos no processo é um dos fatores mais importantes para a execução da nossa metodologia.</p>
+                                    <p> Além de toda a confiança proporcionada pelo nosso Programa de Compliance/LGPD e nosso Código de Conduta nos Negócios e Ética, agora nossos clientes contam também com um seguro E&O (erros e omissões), o que dará ainda mais confiança aos nossos serviços.</p>
+                                    <h3>Você sabe o que a Essencial Jus faz?</h3>
+                                    <p>EssencialJus através da Assertif possuem seguro de Erros e Omissões com a seguradora americana Berkley, através da corretora inglesa AON, e ainda promove o suporte na defesa administrativa e/ou judicial, caso exista alguma glosa dos créditos aprovados pela contratante e compensados pela Assertif. Vale destacar nosso conservadorismo e prudência, não tivemos nenhum caso de glosa até aqui.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="col-lg-4 col-md-6 mb30">
                             <div class="bloglist item">
                                 <div class="post-content">
-                                    <div class="date-box">
+                                    <!-- <div class="date-box">
                                         <div class="m">15</div>
                                         <div class="d">NOV</div>
-                                    </div>
+                                    </div> -->
                                     <div class="post-image">
-                                        <img alt="" src="images/news/2.jpg">
+                                        <img alt="" src="images/news/prancheta8.png">
                                     </div>
                                     <div class="post-text">
-                                        <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">Six firms that are setting the trend<span></span></a></h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                                        <span class="p-author">Fynley Wilkinson</span>
+                                        <!-- <span class="p-tagline">Law Firm</span> -->
+                                        <h4><a href="news-single.html">COMO A PANDEMIA DE COVID-19 MUDOU AS VENDAS B2B PARA SEMPRE<span></span></a></h4>
+                                        <p>A pandemia de COVID-19 transformou muitos cenários, e com as vendas B2B não foi diferente. A situação mundial forçou compradores e vendedores a ultrapassarem barreiras e se tornarem digitais.Definitivamente, o digital é o presente e futuro.</p>
+                                        <!-- <span class="p-author">Fynley Wilkinson</span> -->
+                                         <!-- Button trigger modal -->
+                                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+                                        ver mais
+                                        </button>   
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-4 col-md-6">
+                        
+                        <!-- Modal 2 -->
+                        <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLongTitle">COMO A PANDEMIA DE COVID-19 MUDOU AS VENDAS B2B PARA SEMPRE</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                    <div class="modal-body">
+                                    <div class="post-image">
+                                        <img alt="" src="images/news/prancheta8.png">
+                                    </div>
+                                    <p> Pesquisa recente da McKinsey sobre o comportamento dos tomadores de decisão em todos os setores revela que a grande mudança digital veio para ficar.
+                                    Dentre os principais resultados:</p>
+                                    <li> - Entre 70% a 80% dos tomadores de decisão B2B preferem o autosserviço digital e envolvimento humano remoto em interações face a face;</li>
+                                    <li> – 70% dizem estar mais abertos e seguros para realizarem novas compras totalmente self-service ou online acima de $ 50 mil;</li>
+                                    <li> – 27% fariam compras acima de $ 500 mil;</li>
+                                    <li> – Dentre os entrevistados de 11 países, 77% dos brasileiros acreditam na eficiência do crescimento digital.</li>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb30">
+                            <div class="bloglist item">
+                                <div class="post-content">
+                                    <!-- <div class="date-box">
+                                        <div class="m">20</div>
+                                        <div class="d">NOV</div>
+                                    </div> -->
+                                    <div class="post-image">
+                                        <img alt="" src="images/news/prancheta9.png">
+                                    </div>
+                                    <div class="post-text">
+                                        <!-- <span class="p-tagline">Law Firm</span> -->
+                                        <h4><a href="news-single.html">Empresas recuperam R$ 63 bilhões em tributos por meio de ações judiciais em 2020<span></span></a></h4>
+                                        <p>Oportunidade surgiu com decisão do STF de excluir o ICMS da base de cálculo do PIS/COFINS; assunto voltará a ser discutido pela corte agora em abril.</p>
+                                        <!-- <span class="p-author">Fynley Wilkinson</span> -->
+                                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalLeft">
+                                        ver mais
+                                        </button>   
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                         <!-- Modal 3 -->
+                         <div class="modal fade" id="exampleModalLeft" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                            <div class="modal-dialog modal-dialog-centered" role="document">
+                                <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="exampleModalLongTitle">Empresas recuperam R$ 63 bilhões em tributos por meio de ações judiciais em 2020</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                    <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                    <div class="modal-body">
+                                    <div class="post-image">
+                                        <img alt="" src="images/news/prancheta9.png">
+                                    </div>
+                                    <p> A Essencial Jus, consultoria especializada na mineração de créditos,  informa que as empresas brasileiras contam com uma grande oportunidade para incrementar o  fluxo de caixa. Trata-se da recuperação dos valores pagos em decorrência das discussões  judiciais sobre a ilegalidade da incidência do Imposto sobre Circulação de Mercadorias e  Serviços (ICMS) na base de cálculo do Programa de Integração Social (PIS) e da Contribuição  para o Financiamento da Seguridade Social (COFINS).</p>  
+
+                                    <p>Segundo a Essencial Jus, o surgimento da oportunidade se deu com a deliberação do Supremo  Tribunal Federal (STF) de excluir o ICMS da base de cálculo do PIS/COFINS em 2017. Assim  sendo, os valores pagos a mais pelos contribuintes agora podem ser compensados ou  restituídos. Todavia, o assunto ainda está sub judice. No que já é chamado de julgamento do  século, por envolver um impacto de R$ 250 bilhões nos cofres públicos, os juízes vão se reunir  no dia 29 de abril para tratar dos Embargos de Declaração da União Federal que pedem a  modulação dos efeitos da decisão da corte de quatro anos atrás. </p> 
+
+                                    <p> Dados da própria Receita Federal mostram que as empresas brasileiras que ingressaram com  ações judiciais nesse sentido já conseguiram recuperar R$ 63 bilhões em 2020. “A decisão da  justiça acabou beneficiando o setor produtivo em um momento bem difícil para a economia  brasileira”, afirma Daniel Schimidt, sócio-administrador da Essencial Jus. </p>
+
+                                    <p>A decisão do STF foi a principal razão do volume de recuperação total de tributos pelos  contribuintes quase ter dobrado em 2020. Passou de R$ 100 bilhões em 2019 para R$ 167  bilhões no ano da pandemia de Covid-19, um salto de 67%. “Com a continuidade das medidas  de isolamento social, essa oportunidade de geração de caixa é absolutamente fundamental  para o setor produtivo”, complementa Daniel Schimidt sócio-administrador da Essencial Jus. .</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- <div class="col-lg-4 col-md-6 mb30">
                             <div class="bloglist item">
                                 <div class="post-content">
                                     <div class="date-box">
-                                        <div class="m">20</div>
+                                        <div class="m">25</div>
                                         <div class="d">NOV</div>
                                     </div>
                                     <div class="post-image">
-                                        <img alt="" src="images/news/3.jpg">
+                                        <img alt="" src="images/news/4.jpg">
                                     </div>
                                     <div class="post-text">
                                         <span class="p-tagline">Law Firm</span>
-                                        <h4><a href="news-single.html">When it comes to law firm mergers<span></span></a></h4>
+                                        <h4><a href="news-single.html">How to Make the Most of Your CLE<span></span></a></h4>
                                         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
                                         <span class="p-author">Fynley Wilkinson</span>
                                     </div>
                                 </div>
                             </div>
                         </div>
+                        <div class="col-lg-4 col-md-6 mb30">
+                            <div class="bloglist item">
+                                <div class="post-content">
+                                    <div class="date-box">
+                                        <div class="m">28</div>
+                                        <div class="d">NOV</div>
+                                    </div>
+                                    <div class="post-image">
+                                        <img alt="" src="images/news/5.jpg">
+                                    </div>
+                                    <div class="post-text">
+                                        <span class="p-tagline">Law Firm</span>
+                                        <h4><a href="news-single.html">The Ultimate Guide to Writing like a Lawyer<span></span></a></h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <span class="p-author">Fynley Wilkinson</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-6 mb30">
+                            <div class="bloglist item">
+                                <div class="post-content">
+                                    <div class="date-box">
+                                        <div class="m">30</div>
+                                        <div class="d">NOV</div>
+                                    </div>
+                                    <div class="post-image">
+                                        <img alt="" src="images/news/6.jpg">
+                                    </div>
+                                    <div class="post-text">
+                                        <span class="p-tagline">Law Firm</span>
+                                        <h4><a href="news-single.html">Should you Just Phone Your Opponent?<span></span></a></h4>
+                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                        <span class="p-author">Fynley Wilkinson</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div> -->
+                        <div class="spacer-single"></div>
+                        <ul class="pagination">
+                            <li><a href="#">Prev</a></li>
+                            <li class="active"><a href="#">1</a></li>
+                            <!-- <li><a href="#">2</a></li>
+                            <li><a href="#">3</a></li>
+                            <li><a href="#">4</a></li>
+                            <li><a href="#">5</a></li>
+                            <li><a href="#">Next</a></li> -->
+                        </ul>
                     </div>
+                </div>
+            </section>
                 </div>
             </section>
         </div>
