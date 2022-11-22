@@ -138,7 +138,7 @@
                                 </div>
                                 <i class="wm icofont-worker"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Lẽr mais</a>
+                             
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -150,7 +150,7 @@
                                 </div>
                                 <i class="wm icofont-medical-sign-alt"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Lẽr mais</a>
+                             
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-6">
@@ -162,7 +162,7 @@
                                 </div>
                                 <i class="wm icofont-law-order"></i>
                                 <div class="spacer-single"></div>
-                                <a href="#" class="btn-custom btn-black">Lẽr mais</a>
+                             
                             </div>
                         </div>
                     </div>
@@ -313,7 +313,7 @@
                             <h2 style="color: white">Nossa Equipe</h2>
                             <div class="small-border"></div>
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
+                        <!-- <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".2s">
                             <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
                                     <div class="fpw-overlay">
@@ -331,7 +331,7 @@
                                 <h4 style="color: white">Josiane Schimiloski</h4>
                                 Sócia Administrador
                             </div>
-                        </div>
+                        </div> -->
                         <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".4s">
                             <!-- <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
@@ -352,7 +352,7 @@
                                 Senior Partner
                             </div> -->
                         </div>
-                        <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
+                        <!-- <div class="col-lg-4 col-md-6 col-sm-6 mb30 wow fadeInRight" data-wow-delay=".6s">
                             <div class="f-profile text-center">
                                 <div class="fp-wrap f-invert">
                                     <div class="fpw-overlay">
@@ -371,8 +371,8 @@
                                 <h4 style="color: white">Daniel Schmidt</h4>
                                 Sócio Administrador
                             </div>
-                        </div>
-                        <img src="images/background/nossaequipe.jpg" class="fp-image img-fluid" alt="">
+                        </div> -->
+                        <img src="images/background/nossaequipe.png" class="fp-image img-fluid" alt="">
                     </div>
                 </div>
             </section>
