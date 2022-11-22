@@ -3,10 +3,10 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Justica - Lawyer and Attorney Website Template</title>
+    <title>Essencial Jus</title>
     <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
     <meta content="width=device-width, initial-scale=1.0" name="viewport" />
-    <meta content="Justica - Lawyer and Attorney Website Template" name="description">
+    <meta content="Essencial Jus" name="description">
     <meta content="" name="keywords">
     <meta content="" name="author">
     <!--[if lt IE 9]>
