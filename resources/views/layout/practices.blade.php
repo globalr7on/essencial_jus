@@ -169,7 +169,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-5">
                             <!-- <span class="p-title">Depósitos Recursais</span><br> -->
-                            <h2>DEPOSITOS RECURSAIS</h2>
+                            <h2>DEPÓSITOS RECURSAIS</h2>
                             <p>
                                 A nossa metodologia é composta de inteligência artificial e profissionais altamente qualificados, gerando oportunidades de valores expressivos para o seu negócio.
                             </p>
