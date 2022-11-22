@@ -1136,7 +1136,7 @@ header.s2 #mainmenu>li>a {
 
 header.header-mobile {
     position: fixed;
-    background: rgb(12 32 34);
+    background: rgb(12 32 34) !important;
     top: 0;
     height: 90px;
     overflow: hidden;
