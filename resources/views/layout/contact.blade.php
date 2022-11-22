@@ -108,10 +108,10 @@
                                     </li>
                                     <li><a href="/contato">Contato</a></li>
                                 </ul>
-                                <a class="btn btn-primary btn-sm mostrar1" href="/contato" role="button">ANALISE SEM CUSTO</a>
+                                <a class="btn btn-primary btn-sm mostrar1" href="/contato" role="button">Análise sem custo</a>
                             </div>
                             <div class="de-flex-col">
-                                <a class="btn btn-primary btn-sm mostrar2" href="/contato" role="button">ANALISE SEM CUSTO</a>
+                                <a class="btn btn-primary btn-sm mostrar2" href="/contato" role="button">Análise sem custo</a>
                             <div class="h-phone md-hide"><span>Precisa &nbsp;de ajuda?</span>(41) 3618-7989</div>
                                 <span id="menu-btn"></span>
                             </div>
@@ -175,7 +175,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8 offset-lg-2 mb-sm-30 text-center">
-                            <h3>Solicite um anallise sem custo</h3>
+                            <h3>Solicite um Análise sem custo</h3>
                             <form name="contactForm" id="contact_form" class="form-border" method="post" action="{{ route('contact.send') }}">
                                 <div class="field-set">
                                     <input type="text" name="name" id="name" class="form-control" placeholder="Seu Nome" />
