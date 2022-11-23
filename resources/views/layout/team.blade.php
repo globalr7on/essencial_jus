@@ -161,7 +161,7 @@
                             <h2>
                                 Josiane Schimiloski
                             </h2>
-                            <p>Mãe da Sara apaixonada pela área tributaria, especialista em LGPD, correspondente Bancaria, bacharel  em Radiologia tem como frase: Escolha a melhor forma de tributação para sua empresa, e saia na frente dos seus concorrentes. A complexidade da legislação brasileira pode custar a sua tranquilidade e a sustentabilidade do seu negócio. Por isso estamos a sua disposição Essencial Jus. </p>
+                            <p>Mãe da Sara apaixonada pela área tributaria, especialista em LGPD, correspondente Bancaria, Acadêmica no Curso de Direito Faculdade Uninter, Bacharel  em Radiologia, tem como frase: Escolha a melhor forma de tributação para sua empresa, e saia na frente dos seus concorrentes. A complexidade da legislação brasileira pode custar a sua tranquilidade e a sustentabilidade do seu negócio. Por isso estamos a sua disposição Essencial Jus.</p>
                         </div>
                     </div>
                 </div>
