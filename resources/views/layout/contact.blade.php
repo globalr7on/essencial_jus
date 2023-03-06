@@ -59,10 +59,10 @@
         <div id="topbar" class="text-white bg-color">
             <div class="container">
                 <div class="topbar-left sm-hide">
-                    <span class="topbar-widget tb-social">
-                        <a href="https://www.facebook.com/profile.php?id=100087669453621"><i class="fa fa-facebook"></i></a>
-                        <a href="https://www.linkedin.com/company/essencial-jus/"><i class="fa fa-linkedin"></i></a>
-                        <a href="https://www.instagram.com/essencialjus"><i class="fa fa-instagram"></i></a>
+                   <span class="topbar-widget tb-social">
+                        <a href="https://www.facebook.com/essencialconsorcio"><i class="fa fa-facebook"></i></a>
+                        <a href="https://www.linkedin.com/company/essencialjus/posts/?feedView=all"><i class="fa fa-linkedin"></i></a>
+                        <a href="https://www.instagram.com/essencialjusbr/"><i class="fa fa-instagram"></i></a>
                     </span>
                 </div>
                 <div class="topbar-right">
@@ -254,10 +254,10 @@
                                 <p> &copy; Copyright 2022 - <a href="/">Essencial Jus </a> by <a href="https://modofuturo.com/">Modo Futuro</a></p>
                                 </div>
                                 <div class="de-flex-col">
-                                    <div class="social-icons">
-                                        <a href="https://www.instagram.com/essencialjus"><i class="fa fa-instagram fa-lg"></i></a>
-                                        <a href="https://www.facebook.com/profile.php?id=100087669453621"><i class="fa fa-facebook fa-lg"></i></a>
-                                        <a href="https://www.linkedin.com/company/essencial-jus/"><i class="fa fa-linkedin fa-lg"></i></a>
+                                     <div class="social-icons">
+                                        <a href="https://www.instagram.com/essencialjusbr/"><i class="fa fa-instagram fa-lg"></i></a>
+                                        <a href="https://www.facebook.com/essencialconsorcio"><i class="fa fa-facebook fa-lg"></i></a>
+                                        <a href="https://www.linkedin.com/company/essencialjus/posts/?feedView=all"><i class="fa fa-linkedin fa-lg"></i></a>
                                     </div>
                                 </div>
                             </div>
